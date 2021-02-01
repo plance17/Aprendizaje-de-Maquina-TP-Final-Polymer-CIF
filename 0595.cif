@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_ZrH6C5O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.43926041
+_cell_length_b   4.68383591
+_cell_length_c   8.99123695
+_cell_angle_alpha   104.14191557
+_cell_angle_beta   93.64948929
+_cell_angle_gamma   96.96543860
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrH6C5O4
+_chemical_formula_sum   'Zr1 H6 C5 O4'
+_cell_volume   138.756832211
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr1  1  0.134430  0.217442  0.273362  1
+  O  O2  1  0.602605  0.020699  0.407626  1
+  O  O3  1  0.288760  0.621322  0.468933  1
+  O  O4  1  0.084819  0.859630  0.084254  1
+  O  O5  1  0.655514  0.367263  0.209890  1
+  C  C6  1  0.521644  0.865255  0.508336  1
+  C  C7  1  0.690571  0.980181  0.672402  1
+  C  C8  1  0.143681  0.738138  0.944484  1
+  C  C9  1  0.837181  0.312742  0.723252  1
+  C  C10  1  0.993162  0.409875  0.894469  1
+  H  H11  1  0.775956  0.345050  0.967698  1
+  H  H12  1  0.243181  0.293994  0.913120  1
+  H  H13  1  0.928422  0.853541  0.689704  1
+  H  H14  1  0.475615  0.915040  0.747660  1
+  H  H15  1  0.596782  0.434308  0.704523  1
+  H  H16  1  0.062417  0.373822  0.652578  1
+ 
+# Source:                            Huan_etal:SciDat(submitted)                                                     
+# Class:                             organometallic_polymer_crystal                                                  
+# Label:                             Zr-based_polymer                                                                
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    16
+# Number of atom types:                4
+# Atom types:                        Zr  O  C  H
+# Dielectric constant, electronic:   4.49085E+00
+# Dielectric constant, ionic:        5.62136E+00
+# Dielectric constant, total:        1.01122E+01
+# Band gap at the GGA level (eV):    1.18640E+00
+# Band gap at the HSE06 level (eV):  2.32600E+00
+# Atomization energy (eV/atom):     -6.14467E+00
+# Volume of the unit cell (A^3):     1.38757E+02

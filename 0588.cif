@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_MgH8(C3O2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.69482812
+_cell_length_b   5.98579507
+_cell_length_c   9.60227170
+_cell_angle_alpha   93.87487623
+_cell_angle_beta   93.63543755
+_cell_angle_gamma   105.25391575
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgH8(C3O2)2
+_chemical_formula_sum   'Mg2 H16 C12 O8'
+_cell_volume   258.818179738
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg1  1  0.232752  0.262537  0.785595  1
+  Mg  Mg2  1  0.732753  0.762536  0.785594  1
+  O  O3  1  0.394063  0.163843  0.608060  1
+  O  O4  1  0.894062  0.663843  0.608060  1
+  O  O5  1  0.071162  0.361144  0.963186  1
+  O  O6  1  0.571164  0.861144  0.963186  1
+  O  O7  1  0.666055  0.439395  0.865131  1
+  O  O8  1  0.166055  0.939395  0.865130  1
+  O  O9  1  0.799296  0.085714  0.706069  1
+  O  O10  1  0.299297  0.585714  0.706069  1
+  C  C11  1  0.648134  0.133391  0.600101  1
+  C  C12  1  0.148136  0.633391  0.600100  1
+  C  C13  1  0.817249  0.391914  0.971159  1
+  C  C14  1  0.317247  0.891914  0.971159  1
+  C  C15  1  0.780927  0.138549  0.462383  1
+  C  C16  1  0.280925  0.638548  0.462382  1
+  C  C17  1  0.661097  0.270207  0.353992  1
+  C  C18  1  0.161095  0.770207  0.353991  1
+  C  C19  1  0.804186  0.255587  0.217347  1
+  C  C20  1  0.304184  0.755587  0.217346  1
+  C  C21  1  0.684645  0.387346  0.108922  1
+  C  C22  1  0.184645  0.887346  0.108920  1
+  H  H23  1  0.719158  0.567761  0.147781  1
+  H  H24  1  0.219156  0.067761  0.147779  1
+  H  H25  1  0.446457  0.325030  0.088267  1
+  H  H26  1  0.946456  0.825029  0.088265  1
+  H  H27  1  0.042975  0.322119  0.236424  1
+  H  H28  1  0.542974  0.822120  0.236423  1
+  H  H29  1  0.765513  0.077020  0.175659  1
+  H  H30  1  0.265513  0.577022  0.175659  1
+  H  H31  1  0.746949  0.958248  0.423403  1
+  H  H32  1  0.246947  0.458249  0.423401  1
+  H  H33  1  0.019064  0.201237  0.483115  1
+  H  H34  1  0.519064  0.701237  0.483113  1
+  H  H35  1  0.699648  0.448759  0.395672  1
+  H  H36  1  0.199648  0.948760  0.395671  1
+  H  H37  1  0.422316  0.203548  0.334953  1
+  H  H38  1  0.922315  0.703548  0.334952  1
+ 
+# Source:                            Huan_etal:SciDat(submitted)                                                     
+# Class:                             organometallic_polymer_crystal                                                  
+# Label:                             Mg-based_polymer                                                                
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    38
+# Number of atom types:                4
+# Atom types:                        Mg  O  C  H
+# Dielectric constant, electronic:   2.95809E+00
+# Dielectric constant, ionic:        1.67965E+00
+# Dielectric constant, total:        4.63773E+00
+# Band gap at the GGA level (eV):    4.42170E+00
+# Band gap at the HSE06 level (eV):  6.34050E+00
+# Atomization energy (eV/atom):     -5.74616E+00
+# Volume of the unit cell (A^3):     2.58818E+02

@@ -1,0 +1,78 @@
+# generated using pymatgen
+data_ZnH20(C3O)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.81747215
+_cell_length_b   4.67984836
+_cell_length_c   15.72580252
+_cell_angle_alpha   91.46935010
+_cell_angle_beta   92.36709115
+_cell_angle_gamma   106.16319092
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnH20(C3O)4
+_chemical_formula_sum   'Zn1 H20 C12 O4'
+_cell_volume   269.407261379
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C1  1  0.622697  0.325634  0.257325  1
+  C  C2  1  0.481112  0.420876  0.338993  1
+  C  C3  1  0.267943  0.164274  0.391489  1
+  C  C4  1  0.182221  0.268036  0.479618  1
+  C  C5  1  0.999006  0.006330  0.534039  1
+  C  C6  1  0.905801  0.096571  0.622912  1
+  C  C7  1  0.747046  0.823818  0.675414  1
+  C  C8  1  0.650999  0.889474  0.766280  1
+  C  C9  1  0.548479  0.602685  0.815551  1
+  C  C10  1  0.460144  0.633626  0.908974  1
+  C  C11  1  0.401760  0.332370  0.950225  1
+  C  C12  1  0.264734  0.315557  0.039854  1
+  H  H13  1  0.721265  0.558055  0.376015  1
+  H  H14  1  0.320208  0.572450  0.321453  1
+  H  H15  1  0.153148  0.238580  0.656339  1
+  H  H16  1  0.713595  0.231089  0.617409  1
+  H  H17  1  0.884692  0.050423  0.799240  1
+  H  H18  1  0.427596  0.993552  0.764723  1
+  H  H19  1  0.680601  0.799497  0.944027  1
+  H  H20  1  0.214782  0.708531  0.913793  1
+  H  H21  1  0.427264  0.004476  0.399634  1
+  H  H22  1  0.435918  0.400041  0.512941  1
+  H  H23  1  0.178773  0.861197  0.540951  1
+  H  H24  1  0.748913  0.870889  0.500048  1
+  H  H25  1  0.943374  0.692067  0.678963  1
+  H  H26  1  0.502264  0.680811  0.641158  1
+  H  H27  1  0.773508  0.500470  0.812696  1
+  H  H28  1  0.314437  0.444738  0.781599  1
+  H  H29  1  0.658315  0.270741  0.953694  1
+  H  H30  1  0.211087  0.157309  0.910757  1
+  H  H31  1  0.015442  0.042323  0.356113  1
+  H  H32  1  0.007859  0.417171  0.473033  1
+  O  O33  1  0.854171  0.517680  0.217319  1
+  O  O34  1  0.516861  0.046741  0.234143  1
+  O  O35  1  0.060493  0.054362  0.057629  1
+  O  O36  1  0.345980  0.541369  0.089987  1
+  Zn  Zn37  1  0.779686  0.860170  0.151019  1
+ 
+# Source:                            Huan_etal:SciDat(submitted)                                                     
+# Class:                             organometallic_polymer_crystal                                                  
+# Label:                             Zn-based_polymer                                                                
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    37
+# Number of atom types:                4
+# Atom types:                         C  H  O Zn
+# Dielectric constant, electronic:   2.84472E+00
+# Dielectric constant, ionic:        1.49672E+00
+# Dielectric constant, total:        4.34144E+00
+# Band gap at the GGA level (eV):    4.17940E+00
+# Band gap at the HSE06 level (eV):  6.19200E+00
+# Atomization energy (eV/atom):     -5.35674E+00
+# Volume of the unit cell (A^3):     2.69407E+02

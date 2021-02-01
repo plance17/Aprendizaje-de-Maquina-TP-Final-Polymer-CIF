@@ -1,0 +1,61 @@
+# generated using pymatgen
+data_MgH2C3O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.07142600
+_cell_length_b   6.62576551
+_cell_length_c   7.80183625
+_cell_angle_alpha   80.04665803
+_cell_angle_beta   81.08770532
+_cell_angle_gamma   84.62422856
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgH2C3O4
+_chemical_formula_sum   'Mg2 H4 C6 O8'
+_cell_volume   154.128218516
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg1  1  0.205602  0.154860  0.340144  1
+  Mg  Mg2  1  0.995065  0.204775  0.920295  1
+  O  O3  1  0.396337  0.297527  0.067840  1
+  O  O4  1  0.622469  0.643057  0.514301  1
+  O  O5  1  0.575389  0.107733  0.777222  1
+  O  O6  1  0.078699  0.913275  0.031005  1
+  O  O7  1  0.050485  0.975342  0.572303  1
+  O  O8  1  0.745762  0.975361  0.290377  1
+  O  O9  1  0.000791  0.430626  0.709108  1
+  O  O10  1  0.638570  0.331663  0.414643  1
+  C  C11  1  0.767416  0.587211  0.669235  1
+  C  C12  1  0.687836  0.525247  0.378596  1
+  C  C13  1  0.750520  0.958669  0.700797  1
+  C  C14  1  0.866974  0.849429  0.180194  1
+  C  C15  1  0.628008  0.742306  0.784303  1
+  C  C16  1  0.787103  0.637350  0.218054  1
+  H  H17  1  0.770177  0.700166  0.904131  1
+  H  H18  1  0.844432  0.555382  0.109342  1
+  H  H19  1  0.282585  0.742594  0.827216  1
+  H  H20  1  0.378899  0.442789  0.072883  1
+ 
+# Source:                            Huan_etal:SciDat(submitted)                                                     
+# Class:                             organometallic_polymer_crystal                                                  
+# Label:                             Mg-based_polymer                                                                
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    20
+# Number of atom types:                4
+# Atom types:                        Mg  O  C  H
+# Dielectric constant, electronic:   3.27666E+00
+# Dielectric constant, ionic:        2.77324E+00
+# Dielectric constant, total:        6.04990E+00
+# Band gap at the GGA level (eV):    2.62140E+00
+# Band gap at the HSE06 level (eV):  3.80340E+00
+# Atomization energy (eV/atom):     -6.18479E+00
+# Volume of the unit cell (A^3):     1.54128E+02
