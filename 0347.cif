@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_H5C8NO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.29601288
+_cell_length_b   6.58662950
+_cell_length_c   8.52494843
+_cell_angle_alpha   103.64704283
+_cell_angle_beta   94.22993214
+_cell_angle_gamma   103.51826357
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H5C8NO2
+_chemical_formula_sum   'H10 C16 N2 O4'
+_cell_volume   278.345642065
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C1  1  0.654516  0.608481  0.527755  1
+  C  C2  1  0.511298  0.395962  0.554367  1
+  C  C3  1  0.648568  0.285815  0.637995  1
+  C  C4  1  0.246526  0.299600  0.491940  1
+  C  C5  1  0.119337  0.097917  0.512188  1
+  C  C6  1  0.523488  0.088499  0.660481  1
+  C  C7  1  0.256821  0.993805  0.601032  1
+  C  C8  1  0.140411  0.805408  0.661655  1
+  C  C9  1  0.154500  0.108461  0.027753  1
+  C  C10  1  0.011285  0.895936  0.054365  1
+  C  C11  1  0.148558  0.785787  0.137992  1
+  C  C12  1  0.746513  0.799573  0.991939  1
+  C  C13  1  0.619324  0.597891  0.012187  1
+  C  C14  1  0.023476  0.588472  0.160478  1
+  C  C15  1  0.756810  0.493780  0.101031  1
+  C  C16  1  0.640399  0.305384  0.161655  1
+  H  H17  1  0.854948  0.634990  0.741969  1
+  H  H18  1  0.854903  0.348533  0.684793  1
+  H  H19  1  0.632916  0.009951  0.727608  1
+  H  H20  1  0.137802  0.382227  0.428073  1
+  H  H21  1  0.915134  0.025523  0.462423  1
+  H  H22  1  0.354931  0.134955  0.241963  1
+  H  H23  1  0.354892  0.848503  0.184790  1
+  H  H24  1  0.132905  0.509919  0.227599  1
+  H  H25  1  0.637784  0.882196  0.928072  1
+  H  H26  1  0.415124  0.525493  0.962420  1
+  N  N27  1  0.868434  0.710960  0.651146  1
+  N  N28  1  0.368421  0.210932  0.151144  1
+  O  O29  1  0.595650  0.680151  0.412730  1
+  O  O30  1  0.278927  0.734864  0.748840  1
+  O  O31  1  0.095629  0.180139  0.912734  1
+  O  O32  1  0.778911  0.234837  0.248841  1
+ 
+# Source:                            VSharma_etal:NatCommun.5.4845(2014)                                             
+# Class:                             organic_polymer_crystal                                                         
+# Label:                             Polyimide                                                                       
+# Structure prediction method used:  USPEX                                                                           
+# Number of atoms:                    32
+# Number of atom types:                4
+# Atom types:                         C  H  N  O
+# Dielectric constant, electronic:   3.82186E+00
+# Dielectric constant, ionic:        1.09681E+00
+# Dielectric constant, total:        4.91868E+00
+# Band gap at the GGA level (eV):    2.31270E+00
+# Band gap at the HSE06 level (eV):  3.28900E+00
+# Atomization energy (eV/atom):     -6.47162E+00
+# Volume of the unit cell (A^3):     2.78346E+02

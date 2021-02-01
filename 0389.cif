@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_SnH2(CO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.49980823
+_cell_length_b   5.43988003
+_cell_length_c   5.43792640
+_cell_angle_alpha   62.77533025
+_cell_angle_beta   67.73700742
+_cell_angle_gamma   67.57608434
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnH2(CO3)2
+_chemical_formula_sum   'Sn1 H2 C2 O6'
+_cell_volume   105.98051146
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C1  1  0.430098  0.529747  0.111697  1
+  C  C2  1  0.613765  0.635249  0.218232  1
+  H  H3  1  0.009823  0.686508  0.601262  1
+  H  H4  1  0.043312  0.152531  0.062148  1
+  O  O5  1  0.969114  0.888293  0.472102  1
+  O  O6  1  0.076532  0.276828  0.858871  1
+  O  O7  1  0.358888  0.685273  0.873405  1
+  O  O8  1  0.357506  0.291543  0.270838  1
+  O  O9  1  0.685132  0.873131  0.062839  1
+  O  O10  1  0.686120  0.475634  0.456794  1
+  Sn  Sn11  1  0.522071  0.082650  0.664087  1
+ 
+# Source:                            Huan_etal:SciDat(submitted)                                                     
+# Class:                             organometallic_polymer_crystal                                                  
+# Label:                             polyesters_intra                                                                
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    11
+# Number of atom types:                4
+# Atom types:                         C  H  O Sn
+# Dielectric constant, electronic:   3.31586E+00
+# Dielectric constant, ionic:        3.48288E+00
+# Dielectric constant, total:        6.79875E+00
+# Band gap at the GGA level (eV):    2.71970E+00
+# Band gap at the HSE06 level (eV):  4.49120E+00
+# Atomization energy (eV/atom):     -5.98308E+00
+# Volume of the unit cell (A^3):     1.05981E+02

@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_SnH8C5O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.79132000
+_cell_length_b   5.96530257
+_cell_length_c   6.28209220
+_cell_angle_alpha   68.59722529
+_cell_angle_beta   88.13010702
+_cell_angle_gamma   87.04090150
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnH8C5O4
+_chemical_formula_sum   'Sn1 H8 C5 O4'
+_cell_volume   166.929155443
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C1  1  0.435784  0.278285  0.292848  1
+  C  C2  1  0.194542  0.856707  0.908690  1
+  C  C3  1  0.818750  0.772604  0.418822  1
+  C  C4  1  0.816124  0.404004  0.786669  1
+  C  C5  1  0.682977  0.651153  0.652530  1
+  H  H6  1  0.711829  0.766982  0.749605  1
+  H  H7  1  0.462412  0.633101  0.630586  1
+  H  H8  1  0.248884  0.379881  0.316779  1
+  H  H9  1  0.598291  0.402527  0.206940  1
+  H  H10  1  0.509496  0.155177  0.458454  1
+  H  H11  1  0.195436  0.961691  0.726616  1
+  H  H12  1  0.986000  0.804451  0.971806  1
+  H  H13  1  0.336961  0.701210  0.951183  1
+  O  O14  1  0.060629  0.856501  0.409936  1
+  O  O15  1  0.678056  0.789066  0.243904  1
+  O  O16  1  0.675091  0.217745  0.819886  1
+  O  O17  1  0.061798  0.398777  0.862401  1
+  Sn  Sn18  1  0.323195  0.072337  0.089255  1
+ 
+# Source:                            Baldwin_etal:Adv.Mater.27.346(2015).and.Macromolecules.48.2422(2015)            
+# Class:                             organometallic_polymer_crystal                                                  
+# Label:                             polyesters_inter                                                                
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    18
+# Number of atom types:                4
+# Atom types:                         C  H  O Sn
+# Dielectric constant, electronic:   3.05825E+00
+# Dielectric constant, ionic:        3.77323E+00
+# Dielectric constant, total:        6.83148E+00
+# Band gap at the GGA level (eV):    3.49990E+00
+# Band gap at the HSE06 level (eV):  5.01090E+00
+# Atomization energy (eV/atom):     -5.49426E+00
+# Volume of the unit cell (A^3):     1.66929E+02

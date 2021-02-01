@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_H6C7N2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.67341462
+_cell_length_b   6.47152759
+_cell_length_c   8.53372595
+_cell_angle_alpha   88.02786715
+_cell_angle_beta   89.33747854
+_cell_angle_gamma   89.10357402
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H6C7N2O
+_chemical_formula_sum   'H12 C14 N4 O2'
+_cell_volume   257.894991316
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O1  1  0.480855  0.711266  0.696186  1
+  O  O2  1  0.960253  0.712384  0.197219  1
+  C  C3  1  0.565374  0.399067  0.953400  1
+  C  C4  1  0.481324  0.225640  0.042039  1
+  C  C5  1  0.808761  0.386057  0.856969  1
+  C  C6  1  0.632282  0.037543  0.036413  1
+  C  C7  1  0.749071  0.700682  0.683891  1
+  C  C8  1  0.959695  0.197949  0.851328  1
+  C  C9  1  0.875650  0.024525  0.939971  1
+  C  C10  1  0.877958  0.296342  0.321380  1
+  C  C11  1  0.957978  0.106124  0.389023  1
+  C  C12  1  0.638751  0.404554  0.378218  1
+  C  C13  1  0.802329  0.019053  0.515164  1
+  C  C14  1  0.692026  0.722939  0.209503  1
+  C  C15  1  0.483095  0.317483  0.504358  1
+  C  C16  1  0.563109  0.127261  0.571997  1
+  H  H17  1  0.143603  0.187486  0.774495  1
+  H  H18  1  0.122040  0.807820  0.583685  1
+  H  H19  1  0.130507  0.564312  0.749848  1
+  H  H20  1  0.297390  0.236083  0.118857  1
+  H  H21  1  0.445761  0.542674  0.960955  1
+  H  H22  1  0.995243  0.880909  0.932410  1
+  H  H23  1  0.296843  0.398826  0.548471  1
+  H  H24  1  0.310568  0.859285  0.143554  1
+  H  H25  1  0.319048  0.615762  0.309670  1
+  H  H26  1  0.144223  0.024780  0.344905  1
+  H  H27  1  0.994952  0.360412  0.222228  1
+  H  H28  1  0.446100  0.063189  0.671143  1
+  N  N29  1  0.905649  0.832137  0.587048  1
+  N  N30  1  0.913924  0.556016  0.765100  1
+  N  N31  1  0.527153  0.867599  0.128304  1
+  N  N32  1  0.535444  0.591472  0.306335  1
+ 
+# Source:                            VSharma_etal:NatCommun.5.4845(2014)                                             
+# Class:                             organic_polymer_crystal                                                         
+# Label:                             Polyurea                                                                        
+# Structure prediction method used:  USPEX                                                                           
+# Number of atoms:                    32
+# Number of atom types:                4
+# Atom types:                         O  C  H  N
+# Dielectric constant, electronic:   3.84081E+00
+# Dielectric constant, ionic:        8.67039E-01
+# Dielectric constant, total:        4.70785E+00
+# Band gap at the GGA level (eV):    2.43920E+00
+# Band gap at the HSE06 level (eV):  3.40850E+00
+# Atomization energy (eV/atom):     -6.31036E+00
+# Volume of the unit cell (A^3):     2.57895E+02

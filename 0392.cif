@@ -1,0 +1,64 @@
+# generated using pymatgen
+data_SnH10(CO)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.76799368
+_cell_length_b   5.25257730
+_cell_length_c   7.99593518
+_cell_angle_alpha   79.00215854
+_cell_angle_beta   78.81020188
+_cell_angle_gamma   86.07034922
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnH10(CO)6
+_chemical_formula_sum   'Sn1 H10 C6 O6'
+_cell_volume   192.734282709
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C1  1  0.243189  0.895170  0.951447  1
+  C  C2  1  0.532567  0.520005  0.437940  1
+  C  C3  1  0.148288  0.234101  0.143231  1
+  C  C4  1  0.336642  0.192639  0.282907  1
+  C  C5  1  0.445384  0.463416  0.279959  1
+  C  C6  1  0.041502  0.994520  0.094217  1
+  H  H7  1  0.838025  0.035395  0.053321  1
+  H  H8  1  0.003597  0.838161  0.207015  1
+  H  H9  1  0.613883  0.517839  0.167951  1
+  H  H10  1  0.265052  0.599060  0.265628  1
+  H  H11  1  0.206179  0.117826  0.408586  1
+  H  H12  1  0.515937  0.055914  0.258372  1
+  H  H13  1  0.961850  0.348379  0.190882  1
+  H  H14  1  0.827076  0.153693  0.648833  1
+  H  H15  1  0.635267  0.261770  0.882905  1
+  H  H16  1  0.255370  0.356417  0.024628  1
+  O  O17  1  0.774455  0.050033  0.569546  1
+  O  O18  1  0.788696  0.381114  0.826111  1
+  O  O19  1  0.516541  0.897938  0.944813  1
+  O  O20  1  0.159998  0.802788  0.832294  1
+  O  O21  1  0.340646  0.526845  0.576868  1
+  O  O22  1  0.783169  0.595767  0.436291  1
+  Sn  Sn23  1  0.626204  0.711119  0.702482  1
+ 
+# Source:                            Huan_etal:SciDat(submitted)                                                     
+# Class:                             organometallic_polymer_crystal                                                  
+# Label:                             polyesters_intra                                                                
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    23
+# Number of atom types:                4
+# Atom types:                         C  H  O Sn
+# Dielectric constant, electronic:   2.99153E+00
+# Dielectric constant, ionic:        2.70223E+00
+# Dielectric constant, total:        5.69375E+00
+# Band gap at the GGA level (eV):    3.53480E+00
+# Band gap at the HSE06 level (eV):  5.33830E+00
+# Atomization energy (eV/atom):     -5.53563E+00
+# Volume of the unit cell (A^3):     1.92734E+02

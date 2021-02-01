@@ -1,0 +1,66 @@
+# generated using pymatgen
+data_SnH10(C5O2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.72796998
+_cell_length_b   6.17415021
+_cell_length_c   8.12676892
+_cell_angle_alpha   88.90599489
+_cell_angle_beta   77.99213083
+_cell_angle_gamma   78.89892751
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnH10(C5O2)2
+_chemical_formula_sum   'Sn1 H10 C10 O4'
+_cell_volume   227.643293165
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn1  1  0.532855  0.226735  0.837075  1
+  O  O2  1  0.146134  0.467269  0.002870  1
+  O  O3  1  0.265777  0.201046  0.634003  1
+  O  O4  1  0.799955  0.252427  0.040124  1
+  O  O5  1  0.919634  0.986173  0.671304  1
+  C  C6  1  0.400851  0.946227  0.967581  1
+  C  C7  1  0.664877  0.507220  0.706528  1
+  C  C8  1  0.168070  0.031780  0.596504  1
+  C  C9  1  0.353550  0.877266  0.459806  1
+  C  C10  1  0.614832  0.927680  0.363847  1
+  C  C11  1  0.791852  0.777983  0.242067  1
+  C  C12  1  0.712155  0.576217  0.214308  1
+  C  C13  1  0.450872  0.525806  0.310262  1
+  C  C14  1  0.273848  0.675504  0.432039  1
+  C  C15  1  0.897661  0.421691  0.077632  1
+  H  H16  1  0.226947  0.897106  0.916839  1
+  H  H17  1  0.594724  0.816094  0.951972  1
+  H  H18  1  0.322694  0.997422  0.099044  1
+  H  H19  1  0.838789  0.556349  0.757258  1
+  H  H20  1  0.471014  0.637362  0.722115  1
+  H  H21  1  0.743041  0.455992  0.575071  1
+  H  H22  1  0.677902  0.082252  0.385747  1
+  H  H23  1  0.989106  0.817206  0.165128  1
+  H  H24  1  0.387808  0.371229  0.288361  1
+  H  H25  1  0.076583  0.636290  0.508973  1
+ 
+# Source:                            Baldwin_etal:MacromolRapidCommun.35.2082(2014)                                  
+# Class:                             organometallic_polymer_crystal                                                  
+# Label:                             aromatic_polyesters                                                             
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    25
+# Number of atom types:                4
+# Atom types:                        Sn  O  C  H
+# Dielectric constant, electronic:   3.42894E+00
+# Dielectric constant, ionic:        3.33504E+00
+# Dielectric constant, total:        6.76398E+00
+# Band gap at the GGA level (eV):    2.46770E+00
+# Band gap at the HSE06 level (eV):  3.41050E+00
+# Atomization energy (eV/atom):     -5.89699E+00
+# Volume of the unit cell (A^3):     2.27643E+02

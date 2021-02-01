@@ -1,0 +1,89 @@
+# generated using pymatgen
+data_SnH9C9NO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.03896528
+_cell_length_b   8.49917853
+_cell_length_c   9.05871653
+_cell_angle_alpha   81.12406408
+_cell_angle_beta   77.88786017
+_cell_angle_gamma   77.06574828
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnH9C9NO4
+_chemical_formula_sum   'Sn2 H18 C18 N2 O8'
+_cell_volume   440.245979446
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn1  1  0.752235  0.773393  0.532714  1
+  Sn  Sn2  1  0.251281  0.774205  0.032989  1
+  O  O3  1  0.457046  0.890586  0.846294  1
+  O  O4  1  0.868848  0.578285  0.380997  1
+  O  O5  1  0.132723  0.069524  0.794790  1
+  O  O6  1  0.662503  0.360719  0.880994  1
+  O  O7  1  0.956504  0.890519  0.345840  1
+  O  O8  1  0.631513  0.069295  0.295145  1
+  O  O9  1  0.164129  0.360287  0.380638  1
+  O  O10  1  0.367490  0.578882  0.881518  1
+  C  C11  1  0.387284  0.832662  0.520247  1
+  C  C12  1  0.968149  0.634705  0.686707  1
+  C  C13  1  0.956953  0.423713  0.418829  1
+  C  C14  1  0.789014  0.321762  0.508427  1
+  C  C15  1  0.865612  0.154573  0.546200  1
+  C  C16  1  0.500229  0.124158  0.670172  1
+  C  C17  1  0.408399  0.286611  0.632418  1
+  C  C18  1  0.553932  0.386146  0.547669  1
+  C  C19  1  0.345353  0.024040  0.774728  1
+  C  C20  1  0.467483  0.636143  0.187049  1
+  C  C21  1  0.455382  0.424289  0.919237  1
+  C  C22  1  0.844182  0.024126  0.274759  1
+  C  C23  1  0.287315  0.322393  0.008739  1
+  C  C24  1  0.052196  0.386708  0.047978  1
+  C  C25  1  0.364022  0.155217  0.046428  1
+  C  C26  1  0.998653  0.124607  0.170292  1
+  C  C27  1  0.886783  0.833949  0.019290  1
+  C  C28  1  0.906689  0.287065  0.132651  1
+  N  N29  1  0.724220  0.055229  0.620803  1
+  N  N30  1  0.222699  0.055813  0.120906  1
+  H  H31  1  0.353061  0.757108  0.445055  1
+  H  H32  1  0.291071  0.809978  0.633821  1
+  H  H33  1  0.352269  0.959035  0.472915  1
+  H  H34  1  0.011418  0.715937  0.751950  1
+  H  H35  1  0.122644  0.574644  0.616398  1
+  H  H36  1  0.371636  0.548721  0.258598  1
+  H  H37  1  0.044092  0.100081  0.508142  1
+  H  H38  1  0.226669  0.330326  0.671842  1
+  H  H39  1  0.486076  0.511720  0.512408  1
+  H  H40  1  0.871918  0.547297  0.757929  1
+  H  H41  1  0.852307  0.960382  0.972045  1
+  H  H42  1  0.510366  0.717959  0.251885  1
+  H  H43  1  0.622113  0.576047  0.116878  1
+  H  H44  1  0.984293  0.512317  0.012842  1
+  H  H45  1  0.542553  0.100792  0.008432  1
+  H  H46  1  0.789611  0.811279  0.132565  1
+  H  H47  1  0.853058  0.758640  0.943677  1
+  H  H48  1  0.724940  0.330745  0.172102  1
+ 
+# Source:                            Baldwin_etal:MacromolRapidCommun.35.2082(2014)                                  
+# Class:                             organometallic_polymer_crystal                                                  
+# Label:                             aromatic_polyesters                                                             
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    48
+# Number of atom types:                5
+# Atom types:                        Sn  O  C  N  H
+# Dielectric constant, electronic:   3.40587E+00
+# Dielectric constant, ionic:        2.08784E+00
+# Dielectric constant, total:        5.49372E+00
+# Band gap at the GGA level (eV):    2.55200E+00
+# Band gap at the HSE06 level (eV):  3.91520E+00
+# Atomization energy (eV/atom):     -5.92354E+00
+# Volume of the unit cell (A^3):     4.40246E+02
