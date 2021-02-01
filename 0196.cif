@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_H4C2SN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.06431271
+_cell_length_b   6.08442459
+_cell_length_c   6.09031427
+_cell_angle_alpha   103.08692825
+_cell_angle_beta   99.71174160
+_cell_angle_gamma   99.80205096
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H4C2SN2
+_chemical_formula_sum   'H8 C4 S2 N4'
+_cell_volume   175.872232942
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C1  1  0.975115  0.274268  0.168964  1
+  C  C2  1  0.975245  0.774267  0.668962  1
+  C  C3  1  0.925013  0.582381  0.977042  1
+  C  C4  1  0.925017  0.082375  0.477049  1
+  H  H5  1  0.049085  0.151338  0.046076  1
+  H  H6  1  0.049392  0.651404  0.546144  1
+  H  H7  1  0.752807  0.233868  0.128914  1
+  H  H8  1  0.752949  0.733761  0.628807  1
+  H  H9  1  0.280342  0.555996  0.169942  1
+  H  H10  1  0.280371  0.056084  0.669987  1
+  H  H11  1  0.280470  0.775514  0.950109  1
+  H  H12  1  0.280449  0.275469  0.450023  1
+  N  N13  1  0.071477  0.507914  0.146045  1
+  N  N14  1  0.071515  0.007938  0.646070  1
+  N  N15  1  0.071660  0.751525  0.902313  1
+  N  N16  1  0.071609  0.251498  0.402285  1
+  S  S17  1  0.582902  0.477661  0.872743  1
+  S  S18  1  0.582901  0.977618  0.372786  1
+ 
+# Source:                            Mannodi-Kanakkithodi_etal:SciRep.inpress(2016)                                  
+# Class:                             organic_polymer_crystal                                                         
+# Label:                             CH2-NH-CS-NH                                                                    
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    18
+# Number of atom types:                4
+# Atom types:                         C  H  N  S
+# Dielectric constant, electronic:   3.48946E+00
+# Dielectric constant, ionic:        1.40439E+00
+# Dielectric constant, total:        4.89385E+00
+# Band gap at the GGA level (eV):    2.73660E+00
+# Band gap at the HSE06 level (eV):  3.91250E+00
+# Atomization energy (eV/atom):     -5.46700E+00
+# Volume of the unit cell (A^3):     1.75872E+02

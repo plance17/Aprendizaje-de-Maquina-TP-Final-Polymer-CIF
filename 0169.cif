@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_H4C3SO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.47712997
+_cell_length_b   4.50196901
+_cell_length_c   4.84341056
+_cell_angle_alpha   70.91182436
+_cell_angle_beta   70.73695048
+_cell_angle_gamma   79.44528933
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H4C3SO
+_chemical_formula_sum   'H4 C3 S1 O1'
+_cell_volume   86.7798997573
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C1  1  0.392853  0.028319  0.915403  1
+  C  C2  1  0.570998  0.919516  0.638054  1
+  C  C3  1  0.462945  0.097388  0.360825  1
+  H  H4  1  0.345793  0.285817  0.849816  1
+  H  H5  1  0.203945  0.146145  0.426630  1
+  H  H6  1  0.565129  0.328365  0.263886  1
+  H  H7  1  0.159495  0.928521  0.012429  1
+  O  O8  1  0.566587  0.924098  0.138021  1
+  S  S9  1  0.855886  0.634202  0.637834  1
+ 
+# Source:                            Mannodi-Kanakkithodi_etal:SciRep.inpress(2016)                                  
+# Class:                             organic_polymer_crystal                                                         
+# Label:                             CH2-CS-CH2-O                                                                    
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                     9
+# Number of atom types:                4
+# Atom types:                         C  H  O  S
+# Dielectric constant, electronic:   3.55062E+00
+# Dielectric constant, ionic:        4.10579E-01
+# Dielectric constant, total:        3.96119E+00
+# Band gap at the GGA level (eV):    1.28780E+00
+# Band gap at the HSE06 level (eV):  2.53140E+00
+# Atomization energy (eV/atom):     -5.26932E+00
+# Volume of the unit cell (A^3):     8.67799E+01

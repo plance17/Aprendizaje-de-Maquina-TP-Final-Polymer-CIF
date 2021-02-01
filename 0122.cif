@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_H2C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.56450112
+_cell_length_b   4.67187802
+_cell_length_c   6.70213027
+_cell_angle_alpha   90.00590014
+_cell_angle_beta   90.03348663
+_cell_angle_gamma   90.00809442
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H2C
+_chemical_formula_sum   'H8 C4'
+_cell_volume   80.2984520265
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C1  1  0.749558  0.063054  0.044917  1
+  C  C2  1  0.249380  0.936109  0.955285  1
+  C  C3  1  0.251464  0.563206  0.455087  1
+  C  C4  1  0.751564  0.436279  0.544713  1
+  H  H5  1  0.749850  0.029397  0.206925  1
+  H  H6  1  0.749565  0.295977  0.022232  1
+  H  H7  1  0.249095  0.969792  0.793262  1
+  H  H8  1  0.249358  0.703205  0.977956  1
+  H  H9  1  0.251602  0.796125  0.477779  1
+  H  H10  1  0.251228  0.529505  0.293080  1
+  H  H11  1  0.751499  0.203366  0.522025  1
+  H  H12  1  0.751727  0.469985  0.706739  1
+ 
+# Source:                            Mannodi-Kanakkithodi_etal:SciRep.inpress(2016)                                  
+# Class:                             organic_polymer_crystal                                                         
+# Label:                             CH2-CH2-CH2-CH2                                                                 
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    12
+# Number of atom types:                2
+# Atom types:                         C  H
+# Dielectric constant, electronic:   2.70061E+00
+# Dielectric constant, ionic:        2.27580E-02
+# Dielectric constant, total:        2.72336E+00
+# Band gap at the GGA level (eV):    6.61230E+00
+# Band gap at the HSE06 level (eV):  8.04160E+00
+# Atomization energy (eV/atom):     -5.15386E+00
+# Volume of the unit cell (A^3):     8.02985E+01
