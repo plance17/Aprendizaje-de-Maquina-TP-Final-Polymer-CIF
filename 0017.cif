@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_H4C6S
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.88251886
+_cell_length_b   5.52175311
+_cell_length_c   10.53243205
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H4C6S
+_chemical_formula_sum   'H16 C24 S4'
+_cell_volume   458.427506901
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C1  1  0.004758  0.370158  0.385118  1
+  C  C2  1  0.995242  0.629842  0.614882  1
+  C  C3  1  0.495242  0.129842  0.885118  1
+  C  C4  1  0.504758  0.870158  0.114882  1
+  C  C5  1  0.995242  0.370158  0.114882  1
+  C  C6  1  0.004758  0.629842  0.885118  1
+  C  C7  1  0.504758  0.129842  0.614882  1
+  C  C8  1  0.495242  0.870158  0.385118  1
+  C  C9  1  0.086866  0.280258  0.493814  1
+  C  C10  1  0.913134  0.719742  0.506186  1
+  C  C11  1  0.413134  0.219742  0.993814  1
+  C  C12  1  0.586866  0.780258  0.006186  1
+  C  C13  1  0.913134  0.280258  0.006186  1
+  C  C14  1  0.086866  0.719742  0.993814  1
+  C  C15  1  0.586866  0.219742  0.506186  1
+  C  C16  1  0.413134  0.780258  0.493814  1
+  C  C17  1  0.081767  0.408072  0.608102  1
+  C  C18  1  0.918233  0.591928  0.391898  1
+  C  C19  1  0.418233  0.091928  0.108102  1
+  C  C20  1  0.581767  0.908072  0.891898  1
+  C  C21  1  0.918233  0.408072  0.891898  1
+  C  C22  1  0.081767  0.591928  0.108102  1
+  C  C23  1  0.581767  0.091928  0.391898  1
+  C  C24  1  0.418233  0.908072  0.608102  1
+  H  H25  1  0.156201  0.111081  0.488527  1
+  H  H26  1  0.843799  0.888919  0.511473  1
+  H  H27  1  0.343799  0.388919  0.988527  1
+  H  H28  1  0.656201  0.611081  0.011473  1
+  H  H29  1  0.843799  0.111081  0.011473  1
+  H  H30  1  0.156201  0.888919  0.988527  1
+  H  H31  1  0.656201  0.388919  0.511473  1
+  H  H32  1  0.343799  0.611081  0.488527  1
+  H  H33  1  0.148840  0.338090  0.689995  1
+  H  H34  1  0.851160  0.661910  0.310005  1
+  H  H35  1  0.351160  0.161910  0.189995  1
+  H  H36  1  0.648840  0.838090  0.810005  1
+  H  H37  1  0.851160  0.338090  0.810005  1
+  H  H38  1  0.148840  0.661910  0.189995  1
+  H  H39  1  0.648840  0.161910  0.310005  1
+  H  H40  1  0.351160  0.838090  0.689995  1
+  S  S41  1  0.000000  0.174902  0.250000  1
+  S  S42  1  0.000000  0.825098  0.750000  1
+  S  S43  1  0.500000  0.325098  0.750000  1
+  S  S44  1  0.500000  0.674902  0.250000  1
+ 
+# Source:                            Tabor_etal:Eur.                                                                 
+# Class:                             common_polymer_crystal                                                          
+# Label:                             p-phenylene-sulfide                                                             
+# Structure prediction method used:  NA                                                                              
+# Number of atoms:                    44
+# Number of atom types:                3
+# Atom types:                         C  H  S
+# Dielectric constant, electronic:   3.92367E+00
+# Dielectric constant, ionic:        2.36075E-01
+# Dielectric constant, total:        4.15974E+00
+# Band gap at the GGA level (eV):    2.27960E+00
+# Band gap at the HSE06 level (eV):  3.18480E+00
+# Atomization energy (eV/atom):     -6.08919E+00
+# Volume of the unit cell (A^3):     4.58428E+02

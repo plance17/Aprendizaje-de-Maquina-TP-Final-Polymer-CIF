@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_H5C7NO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.95173856
+_cell_length_b   5.01196513
+_cell_length_c   9.41933396
+_cell_angle_alpha   86.91469652
+_cell_angle_beta   87.09715244
+_cell_angle_gamma   89.31694495
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H5C7NO
+_chemical_formula_sum   'H10 C14 N2 O2'
+_cell_volume   233.12019158
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  N  N1  1  0.980119  0.985858  0.002110  1
+  N  N2  1  0.491261  0.605968  0.426820  1
+  C  C3  1  0.769902  0.012427  0.108752  1
+  C  C4  1  0.745282  0.805400  0.214626  1
+  C  C5  1  0.530201  0.809179  0.317026  1
+  C  C6  1  0.337998  0.016482  0.311334  1
+  C  C7  1  0.367360  0.222031  0.206831  1
+  C  C8  1  0.583235  0.225258  0.106203  1
+  C  C9  1  0.685035  0.444387  0.483726  1
+  C  C10  1  0.593952  0.246405  0.600218  1
+  C  C11  1  0.369131  0.289424  0.692673  1
+  C  C12  1  0.307663  0.108339  0.808342  1
+  C  C13  1  0.467412  0.877293  0.827331  1
+  C  C14  1  0.690326  0.833334  0.734922  1
+  C  C15  1  0.755857  0.018150  0.623698  1
+  C  C16  1  0.090459  0.185421  0.914780  1
+  O  O17  1  0.021972  0.426510  0.923770  1
+  O  O18  1  0.931073  0.459751  0.444707  1
+  H  H19  1  0.603372  0.384565  0.025109  1
+  H  H20  1  0.218539  0.381918  0.203403  1
+  H  H21  1  0.169844  0.019539  0.388877  1
+  H  H22  1  0.889987  0.643180  0.215853  1
+  H  H23  1  0.293941  0.567075  0.457091  1
+  H  H24  1  0.245196  0.467468  0.680270  1
+  H  H25  1  0.932303  0.986556  0.554135  1
+  H  H26  1  0.816378  0.658520  0.753405  1
+  H  H27  1  0.425956  0.736084  0.916539  1
+  H  H28  1  0.036668  0.793787  0.983911  1
+ 
+# Source:                            Kakida_etal:J.Polym.Sci.14.427(1976)                                            
+# Class:                             common_polymer_crystal                                                          
+# Label:                             poly_m-phenylene_isophthalamide                                                 
+# Structure prediction method used:  NA                                                                              
+# Number of atoms:                    28
+# Number of atom types:                4
+# Atom types:                         N  C  O  H
+# Dielectric constant, electronic:   3.84937E+00
+# Dielectric constant, ionic:        6.05207E-01
+# Dielectric constant, total:        4.45458E+00
+# Band gap at the GGA level (eV):    2.32430E+00
+# Band gap at the HSE06 level (eV):  3.23990E+00
+# Atomization energy (eV/atom):     -6.40819E+00
+# Volume of the unit cell (A^3):     2.33120E+02

@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_H3C3OF3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05211075
+_cell_length_b   7.15953957
+_cell_length_c   8.24400270
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H3C3OF3
+_chemical_formula_sum   'H12 C12 O4 F12'
+_cell_volume   298.192064317
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O1  1  0.495494  0.244796  0.297752  1
+  O  O2  1  0.995494  0.255204  0.702248  1
+  O  O3  1  0.504506  0.744796  0.202248  1
+  O  O4  1  0.004506  0.755204  0.797752  1
+  C  C5  1  0.510368  0.408005  0.192209  1
+  C  C6  1  0.010368  0.091995  0.807791  1
+  C  C7  1  0.489632  0.908005  0.307791  1
+  C  C8  1  0.989632  0.591995  0.692209  1
+  C  C9  1  0.589803  0.580097  0.289369  1
+  C  C10  1  0.089803  0.919903  0.710631  1
+  C  C11  1  0.410197  0.080097  0.210631  1
+  C  C12  1  0.910197  0.419903  0.789369  1
+  C  C13  1  0.889786  0.586120  0.297267  1
+  C  C14  1  0.389786  0.913880  0.702733  1
+  C  C15  1  0.110214  0.086120  0.202733  1
+  C  C16  1  0.610214  0.413880  0.797267  1
+  H  H17  1  0.324025  0.436903  0.134699  1
+  H  H18  1  0.824025  0.063097  0.865301  1
+  H  H19  1  0.675975  0.936903  0.365301  1
+  H  H20  1  0.175975  0.563097  0.634699  1
+  H  H21  1  0.656658  0.380982  0.100842  1
+  H  H22  1  0.156658  0.119018  0.899158  1
+  H  H23  1  0.343342  0.880982  0.399158  1
+  H  H24  1  0.843342  0.619018  0.600842  1
+  H  H25  1  0.506895  0.572836  0.410951  1
+  H  H26  1  0.006895  0.927164  0.589049  1
+  H  H27  1  0.493105  0.072836  0.089049  1
+  H  H28  1  0.993105  0.427164  0.910951  1
+  F  F29  1  0.991817  0.595001  0.143102  1
+  F  F30  1  0.491817  0.904999  0.856898  1
+  F  F31  1  0.008183  0.095001  0.356898  1
+  F  F32  1  0.508183  0.404999  0.643102  1
+  F  F33  1  0.998217  0.436258  0.376750  1
+  F  F34  1  0.498217  0.063742  0.623250  1
+  F  F35  1  0.001783  0.936258  0.123250  1
+  F  F36  1  0.501783  0.563742  0.876750  1
+  F  F37  1  0.987524  0.740080  0.378956  1
+  F  F38  1  0.487524  0.759920  0.621044  1
+  F  F39  1  0.012476  0.240080  0.121044  1
+  F  F40  1  0.512476  0.259920  0.878956  1
+ 
+# Source:                            Kumpanenko_etal:Polym.Sci.USSR.12.930(1970)                                     
+# Class:                             common_polymer_crystal                                                          
+# Label:                             p-333-trifluoro-2-methyloxirane                                                 
+# Structure prediction method used:  NA                                                                              
+# Number of atoms:                    40
+# Number of atom types:                4
+# Atom types:                         O  C  H  F
+# Dielectric constant, electronic:   2.50705E+00
+# Dielectric constant, ionic:        7.94100E-01
+# Dielectric constant, total:        3.30115E+00
+# Band gap at the GGA level (eV):    5.35960E+00
+# Band gap at the HSE06 level (eV):  7.41580E+00
+# Atomization energy (eV/atom):     -5.18739E+00
+# Volume of the unit cell (A^3):     2.98192E+02

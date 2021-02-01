@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_HCF
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.53619012
+_cell_length_b   7.73382409
+_cell_length_c   4.22310625
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HCF
+_chemical_formula_sum   'H4 C4 F4'
+_cell_volume   82.8338990501
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C1  1  0.000000  0.000000  0.983910  1
+  C  C2  1  0.000000  0.500000  0.483908  1
+  C  C3  1  0.500000  0.000000  0.176380  1
+  C  C4  1  0.500000  0.500000  0.676378  1
+  F  F5  1  0.500000  0.855814  0.384258  1
+  F  F6  1  0.500000  0.355814  0.884256  1
+  F  F7  1  0.500000  0.144186  0.384258  1
+  F  F8  1  0.500000  0.644186  0.884256  1
+  H  H9  1  0.000000  0.886581  0.833605  1
+  H  H10  1  0.000000  0.386581  0.333602  1
+  H  H11  1  0.000000  0.113419  0.833605  1
+  H  H12  1  0.000000  0.613419  0.333602  1
+ 
+# Source:                            Hasegawa_etal:Poly.J.3.591(1972)                                                
+# Class:                             common_polymer_crystal                                                          
+# Label:                             p-vinylidene-fluoride_PVDF-beta                                                 
+# Structure prediction method used:  NA                                                                              
+# Number of atoms:                    12
+# Number of atom types:                3
+# Atom types:                         C  F  H
+# Dielectric constant, electronic:   2.59920E+00
+# Dielectric constant, ionic:        7.86594E-01
+# Dielectric constant, total:        3.38580E+00
+# Band gap at the GGA level (eV):    6.46590E+00
+# Band gap at the HSE06 level (eV):  8.43000E+00
+# Atomization energy (eV/atom):     -5.21266E+00
+# Volume of the unit cell (A^3):     8.28339E+01

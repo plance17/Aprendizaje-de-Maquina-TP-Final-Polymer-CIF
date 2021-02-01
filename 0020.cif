@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_HCF
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.40414713
+_cell_length_b   5.00513578
+_cell_length_c   6.57956696
+_cell_angle_alpha   80.78044414
+_cell_angle_beta   90.00000610
+_cell_angle_gamma   90.00008239
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HCF
+_chemical_formula_sum   'H8 C8 F8'
+_cell_volume   175.668305799
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C1  1  0.946753  0.127031  0.961031  1
+  C  C2  1  0.944327  0.637832  0.949294  1
+  C  C3  1  0.053913  0.372962  0.038976  1
+  C  C4  1  0.056340  0.862161  0.050711  1
+  C  C5  1  0.444329  0.362167  0.550712  1
+  C  C6  1  0.446754  0.872969  0.538973  1
+  C  C7  1  0.556337  0.137840  0.449290  1
+  C  C8  1  0.553912  0.627039  0.461026  1
+  F  F9  1  0.971784  0.175320  0.745199  1
+  F  F10  1  0.691433  0.128762  0.996622  1
+  F  F11  1  0.028884  0.324678  0.254808  1
+  F  F12  1  0.309233  0.371227  0.003385  1
+  F  F13  1  0.191433  0.871236  0.503387  1
+  F  F14  1  0.471792  0.824682  0.754805  1
+  F  F15  1  0.809233  0.628775  0.496612  1
+  F  F16  1  0.528876  0.675321  0.245195  1
+  H  H17  1  0.980529  0.670813  0.785087  1
+  H  H18  1  0.745846  0.624707  0.972826  1
+  H  H19  1  0.020138  0.829178  0.214917  1
+  H  H20  1  0.254820  0.875287  0.027177  1
+  H  H21  1  0.245848  0.375291  0.527186  1
+  H  H22  1  0.480539  0.329185  0.714917  1
+  H  H23  1  0.754819  0.124716  0.472817  1
+  H  H24  1  0.520128  0.170824  0.285085  1
+ 
+# Source:                            Tanigami_etal:Polymer.27.999(1986)                                              
+# Class:                             common_polymer_crystal                                                          
+# Label:                             p-tetrafluoroethylene-alt-ethylene                                              
+# Structure prediction method used:  NA                                                                              
+# Number of atoms:                    24
+# Number of atom types:                3
+# Atom types:                         C  F  H
+# Dielectric constant, electronic:   2.48802E+00
+# Dielectric constant, ionic:        6.26295E-01
+# Dielectric constant, total:        3.11431E+00
+# Band gap at the GGA level (eV):    7.10250E+00
+# Band gap at the HSE06 level (eV):  9.13160E+00
+# Atomization energy (eV/atom):     -5.20597E+00
+# Volume of the unit cell (A^3):     1.75668E+02

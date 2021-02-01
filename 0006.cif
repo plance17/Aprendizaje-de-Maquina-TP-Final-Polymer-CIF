@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_H3C7NO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.46593554
+_cell_length_b   5.28475794
+_cell_length_c   11.67060963
+_cell_angle_alpha   89.93615001
+_cell_angle_beta   89.80023437
+_cell_angle_gamma   87.92938778
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H3C7NO
+_chemical_formula_sum   'H6 C14 N2 O2'
+_cell_volume   213.625262811
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H1  1  0.562802  0.630783  0.764407  1
+  H  H2  1  0.636809  0.537156  0.977295  1
+  H  H3  1  0.191364  0.813505  0.900866  1
+  H  H4  1  0.335303  0.628343  0.477031  1
+  H  H5  1  0.409941  0.534853  0.264093  1
+  H  H6  1  0.780914  0.352057  0.401002  1
+  C  C7  1  0.700055  0.458512  0.796465  1
+  C  C8  1  0.740684  0.403327  0.912783  1
+  C  C9  1  0.916933  0.171288  0.949964  1
+  C  C10  1  0.058172  0.989043  0.871388  1
+  C  C11  1  0.019933  0.044657  0.755458  1
+  C  C12  1  0.019541  0.045205  0.571388  1
+  C  C13  1  0.844028  0.275587  0.721282  1
+  C  C14  1  0.055386  0.994260  0.449911  1
+  C  C15  1  0.231629  0.762226  0.412596  1
+  C  C16  1  0.272554  0.707101  0.296252  1
+  C  C17  1  0.128654  0.890050  0.221186  1
+  C  C18  1  0.953010  0.120362  0.071414  1
+  C  C19  1  0.952713  0.120962  0.255490  1
+  C  C20  1  0.914200  0.176530  0.371441  1
+  N  N21  1  0.129181  0.904234  0.658159  1
+  N  N22  1  0.843524  0.261360  0.158274  1
+  O  O23  1  0.840393  0.280689  0.602477  1
+  O  O24  1  0.132275  0.884909  0.102378  1
+ 
+# Source:                            Fratini_etal:J.Macromol.Sci.Phys.B24.159(1985)                                  
+# Class:                             common_polymer_crystal                                                          
+# Label:                             p-26-benzothiazole                                                              
+# Structure prediction method used:  NA                                                                              
+# Number of atoms:                    24
+# Number of atom types:                4
+# Atom types:                         H  C  N  O
+# Dielectric constant, electronic:   4.47765E+00
+# Dielectric constant, ionic:        2.83637E-01
+# Dielectric constant, total:        4.76129E+00
+# Band gap at the GGA level (eV):    1.80540E+00
+# Band gap at the HSE06 level (eV):  2.53670E+00
+# Atomization energy (eV/atom):     -6.81389E+00
+# Volume of the unit cell (A^3):     2.13625E+02

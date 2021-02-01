@@ -1,0 +1,68 @@
+# generated using pymatgen
+data_H10C15S2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.78035446
+_cell_length_b   6.11434473
+_cell_length_c   12.38367730
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   94.82855627
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H10C15S2
+_chemical_formula_sum   'H10 C15 S2'
+_cell_volume   285.225290338
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C1  1  0.508293  0.627713  0.629173  1
+  C  C2  1  0.491707  0.627713  0.370827  1
+  C  C3  1  0.584500  0.681693  0.265056  1
+  C  C4  1  0.415500  0.681693  0.734944  1
+  C  C5  1  0.430377  0.414676  0.599591  1
+  C  C6  1  0.569623  0.414676  0.400409  1
+  C  C7  1  0.731326  0.510444  0.211403  1
+  C  C8  1  0.268674  0.510444  0.788597  1
+  C  C9  1  0.500000  0.284435  0.500000  1
+  C  C10  1  0.934713  0.704313  0.050705  1
+  C  C11  1  0.065287  0.704313  0.949295  1
+  C  C12  1  0.864962  0.507542  0.104344  1
+  C  C13  1  0.135038  0.507542  0.895656  1
+  C  C14  1  0.933984  0.311275  0.050700  1
+  C  C15  1  0.066016  0.311275  0.949300  1
+  H  H16  1  0.880081  0.157258  0.089104  1
+  H  H17  1  0.119919  0.157258  0.910896  1
+  H  H18  1  0.726255  0.173819  0.520462  1
+  H  H19  1  0.273745  0.173819  0.479538  1
+  H  H20  1  0.464411  0.841455  0.770901  1
+  H  H21  1  0.535589  0.841455  0.229099  1
+  H  H22  1  0.359034  0.741363  0.420916  1
+  H  H23  1  0.640966  0.741363  0.579084  1
+  H  H24  1  0.111723  0.857885  0.909603  1
+  H  H25  1  0.888277  0.857885  0.090397  1
+  S  S26  1  0.247886  0.277174  0.705550  1
+  S  S27  1  0.752114  0.277174  0.294450  1
+ 
+# Source:                            Mannodi-Kanakkithodi_etal:SciRep.inpress(2016)                                  
+# Class:                             organic_polymer_crystal                                                         
+# Label:                             CH2-C4H2S-C6H4-C4H2S                                                            
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    27
+# Number of atom types:                3
+# Atom types:                         C  H  S
+# Dielectric constant, electronic:   3.80596E+00
+# Dielectric constant, ionic:        1.14902E-01
+# Dielectric constant, total:        3.92086E+00
+# Band gap at the GGA level (eV):    1.80920E+00
+# Band gap at the HSE06 level (eV):  2.51200E+00
+# Atomization energy (eV/atom):     -6.11900E+00
+# Volume of the unit cell (A^3):     2.85225E+02

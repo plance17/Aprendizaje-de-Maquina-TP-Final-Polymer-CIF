@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_H3C7NO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.46788628
+_cell_length_b   5.27901965
+_cell_length_c   11.66999212
+_cell_angle_alpha   89.72947701
+_cell_angle_beta   89.35972219
+_cell_angle_gamma   87.96332270
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H3C7NO
+_chemical_formula_sum   'H6 C14 N2 O2'
+_cell_volume   213.492717722
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H1  1  0.438227  0.368859  0.764082  1
+  H  H2  1  0.362845  0.462236  0.977029  1
+  H  H3  1  0.806370  0.185609  0.900973  1
+  H  H4  1  0.663177  0.371825  0.477373  1
+  H  H5  1  0.590002  0.465705  0.264516  1
+  H  H6  1  0.220897  0.648776  0.400791  1
+  C  C7  1  0.300133  0.541024  0.796230  1
+  C  C8  1  0.258762  0.596052  0.912600  1
+  C  C9  1  0.081953  0.828096  0.949920  1
+  C  C10  1  0.940242  0.010166  0.871432  1
+  C  C11  1  0.979430  0.954787  0.755493  1
+  C  C12  1  0.980731  0.954810  0.571425  1
+  C  C13  1  0.156084  0.723988  0.721141  1
+  C  C14  1  0.944963  0.006166  0.449988  1
+  C  C15  1  0.768049  0.238187  0.412845  1
+  C  C16  1  0.727684  0.293470  0.296513  1
+  C  C17  1  0.046857  0.879634  0.071373  1
+  C  C18  1  0.871976  0.110582  0.221257  1
+  C  C19  1  0.048580  0.879755  0.255428  1
+  C  C20  1  0.087006  0.824181  0.371353  1
+  N  N21  1  0.870508  0.095503  0.658352  1
+  N  N22  1  0.157631  0.739063  0.158150  1
+  O  O23  1  0.160309  0.719183  0.602303  1
+  O  O24  1  0.867584  0.115343  0.102434  1
+ 
+# Source:                            Fratini_etal:J.Macromol.Sci.Phys.B24.159(1985)                                  
+# Class:                             common_polymer_crystal                                                          
+# Label:                             poly_2_5-benzoxazole                                                            
+# Structure prediction method used:  NA                                                                              
+# Number of atoms:                    24
+# Number of atom types:                4
+# Atom types:                         H  C  N  O
+# Dielectric constant, electronic:   4.48080E+00
+# Dielectric constant, ionic:        3.16875E-01
+# Dielectric constant, total:        4.79768E+00
+# Band gap at the GGA level (eV):    1.81060E+00
+# Band gap at the HSE06 level (eV):  2.54260E+00
+# Atomization energy (eV/atom):     -6.81378E+00
+# Volume of the unit cell (A^3):     2.13493E+02
