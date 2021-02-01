@@ -1,0 +1,66 @@
+# generated using pymatgen
+data_H12Pb(C2O)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.79170347
+_cell_length_b   4.31334192
+_cell_length_c   13.15952326
+_cell_angle_alpha   92.19796804
+_cell_angle_beta   95.60484055
+_cell_angle_gamma   102.89146154
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H12Pb(C2O)4
+_chemical_formula_sum   'H12 Pb1 C8 O4'
+_cell_volume   208.393431637
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C1  1  0.099401  0.619584  0.651968  1
+  C  C2  1  0.214267  0.773455  0.555596  1
+  C  C3  1  0.233677  0.542832  0.465863  1
+  C  C4  1  0.346689  0.723780  0.371827  1
+  C  C5  1  0.380228  0.504530  0.280603  1
+  C  C6  1  0.493262  0.685451  0.186566  1
+  C  C7  1  0.512650  0.454786  0.096845  1
+  C  C8  1  0.627747  0.608582  0.000479  1
+  H  H9  1  0.014557  0.915296  0.534405  1
+  H  H10  1  0.472039  0.946137  0.574385  1
+  H  H11  1  0.297768  0.828128  0.163428  1
+  H  H12  1  0.757291  0.852147  0.205912  1
+  H  H13  1  0.969662  0.376122  0.446514  1
+  H  H14  1  0.149859  0.866476  0.349153  1
+  H  H15  1  0.119021  0.333267  0.259934  1
+  H  H16  1  0.577044  0.361831  0.303284  1
+  H  H17  1  0.254827  0.282195  0.078033  1
+  H  H18  1  0.712231  0.312840  0.118054  1
+  H  H19  1  0.429187  0.400162  0.488991  1
+  H  H20  1  0.607892  0.895052  0.392500  1
+  O  O21  1  0.231779  0.771957  0.740255  1
+  O  O22  1  0.867850  0.356190  0.646614  1
+  O  O23  1  0.495527  0.456088  0.912198  1
+  O  O24  1  0.859289  0.871945  0.005832  1
+  Pb  Pb25  1  0.863697  0.114080  0.826220  1
+ 
+# Source:                            Huan_etal:SciDat(submitted)                                                     
+# Class:                             organometallic_polymer_crystal                                                  
+# Label:                             Pb-based_polymer                                                                
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    25
+# Number of atom types:                4
+# Atom types:                         C  H  O Pb
+# Dielectric constant, electronic:   3.18616E+00
+# Dielectric constant, ionic:        1.88554E+01
+# Dielectric constant, total:        2.20416E+01
+# Band gap at the GGA level (eV):    3.59490E+00
+# Band gap at the HSE06 level (eV):  4.87480E+00
+# Atomization energy (eV/atom):     -5.58038E+00
+# Volume of the unit cell (A^3):     2.08393E+02

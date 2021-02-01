@@ -1,0 +1,78 @@
+# generated using pymatgen
+data_H20Pb(C3O)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.69267791
+_cell_length_b   5.04654846
+_cell_length_c   15.20776413
+_cell_angle_alpha   97.24532661
+_cell_angle_beta   96.73051087
+_cell_angle_gamma   90.65503496
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H20Pb(C3O)4
+_chemical_formula_sum   'H20 Pb1 C12 O4'
+_cell_volume   279.101678458
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C1  1  0.396033  0.470810  0.278661  1
+  C  C2  1  0.248524  0.477309  0.368529  1
+  C  C3  1  0.153736  0.209375  0.398760  1
+  C  C4  1  0.076594  0.249020  0.496684  1
+  C  C5  1  0.992303  0.989268  0.533600  1
+  C  C6  1  0.915473  0.033773  0.631273  1
+  C  C7  1  0.835587  0.773611  0.668725  1
+  C  C8  1  0.758900  0.818096  0.766409  1
+  C  C9  1  0.674418  0.558342  0.803302  1
+  C  C10  1  0.597621  0.597965  0.901251  1
+  C  C11  1  0.502140  0.330117  0.931457  1
+  C  C12  1  0.354707  0.337098  0.021354  1
+  H  H13  1  0.461350  0.582523  0.417181  1
+  H  H14  1  0.018266  0.611531  0.368179  1
+  H  H15  1  0.150137  0.139066  0.672375  1
+  H  H16  1  0.685994  0.167378  0.637642  1
+  H  H17  1  0.994208  0.921102  0.807817  1
+  H  H18  1  0.531009  0.953030  0.772472  1
+  H  H19  1  0.835719  0.693093  0.943708  1
+  H  H20  1  0.374042  0.735013  0.909794  1
+  H  H21  1  0.377704  0.072651  0.390290  1
+  H  H22  1  0.312661  0.351077  0.538242  1
+  H  H23  1  0.220340  0.854459  0.527573  1
+  H  H24  1  0.757134  0.886105  0.492179  1
+  H  H25  1  0.065029  0.639983  0.662335  1
+  H  H26  1  0.600878  0.668340  0.627633  1
+  H  H27  1  0.900955  0.422522  0.795879  1
+  H  H28  1  0.438135  0.456480  0.761774  1
+  H  H29  1  0.732067  0.195603  0.931835  1
+  H  H30  1  0.289064  0.225168  0.882820  1
+  H  H31  1  0.915905  0.113928  0.356279  1
+  H  H32  1  0.849851  0.384690  0.504040  1
+  O  O33  1  0.474725  0.700964  0.256938  1
+  O  O34  1  0.443318  0.247468  0.232486  1
+  O  O35  1  0.273546  0.107415  0.042947  1
+  O  O36  1  0.310330  0.560903  0.067655  1
+  Pb  Pb37  1  0.879616  0.903346  0.150271  1
+ 
+# Source:                            Huan_etal:SciDat(submitted)                                                     
+# Class:                             organometallic_polymer_crystal                                                  
+# Label:                             Pb-based_polymer                                                                
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    37
+# Number of atom types:                4
+# Atom types:                         C  H  O Pb
+# Dielectric constant, electronic:   3.17456E+00
+# Dielectric constant, ionic:        1.02560E+01
+# Dielectric constant, total:        1.34306E+01
+# Band gap at the GGA level (eV):    3.04310E+00
+# Band gap at the HSE06 level (eV):  4.68270E+00
+# Atomization energy (eV/atom):     -5.42726E+00
+# Volume of the unit cell (A^3):     2.79102E+02
