@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_H8(C4O)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.83464239
+_cell_length_b   6.98844675
+_cell_length_c   8.94574394
+_cell_angle_alpha   80.83237982
+_cell_angle_beta   71.19644931
+_cell_angle_gamma   75.31078408
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H8(C4O)3
+_chemical_formula_sum   'H16 C24 O6'
+_cell_volume   389.848895489
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C1  1  0.443063  0.053405  0.778972  1
+  C  C2  1  0.556937  0.946595  0.221028  1
+  C  C3  1  0.321580  0.981202  0.928206  1
+  C  C4  1  0.678420  0.018798  0.071794  1
+  C  C5  1  0.180204  0.080106  0.065057  1
+  C  C6  1  0.819796  0.919894  0.934943  1
+  C  C7  1  0.106471  0.277231  0.104319  1
+  C  C8  1  0.893529  0.722769  0.895681  1
+  C  C9  1  0.959988  0.314761  0.252211  1
+  C  C10  1  0.040012  0.685239  0.747789  1
+  C  C11  1  0.887632  0.159642  0.359891  1
+  C  C12  1  0.112368  0.840358  0.640109  1
+  C  C13  1  0.959510  0.961882  0.322604  1
+  C  C14  1  0.040490  0.038118  0.677396  1
+  C  C15  1  0.104528  0.928313  0.175432  1
+  C  C16  1  0.895472  0.071687  0.824568  1
+  C  C17  1  0.322886  0.780278  0.962157  1
+  C  C18  1  0.677114  0.219722  0.037843  1
+  C  C19  1  0.441655  0.637624  0.854555  1
+  C  C20  1  0.558345  0.362376  0.145445  1
+  C  C21  1  0.560786  0.705543  0.711448  1
+  C  C22  1  0.439214  0.294457  0.288552  1
+  C  C23  1  0.695042  0.580080  0.580958  1
+  C  C24  1  0.304958  0.419920  0.419042  1
+  H  H25  1  0.157989  0.397308  0.020863  1
+  H  H26  1  0.842011  0.602692  0.979137  1
+  H  H27  1  0.897124  0.467259  0.281788  1
+  H  H28  1  0.102876  0.532741  0.718212  1
+  H  H29  1  0.770352  0.191117  0.472937  1
+  H  H30  1  0.229648  0.808883  0.527063  1
+  H  H31  1  0.901547  0.843145  0.403972  1
+  H  H32  1  0.098453  0.156855  0.596028  1
+  H  H33  1  0.437564  0.482465  0.876366  1
+  H  H34  1  0.562436  0.517535  0.123634  1
+  H  H35  1  0.682970  0.426505  0.617085  1
+  H  H36  1  0.317030  0.573495  0.382915  1
+  H  H37  1  0.859977  0.590848  0.553515  1
+  H  H38  1  0.140023  0.409152  0.446485  1
+  H  H39  1  0.644620  0.631162  0.474305  1
+  H  H40  1  0.355380  0.368838  0.525695  1
+  O  O41  1  0.564241  0.904553  0.673005  1
+  O  O42  1  0.435759  0.095447  0.326995  1
+  O  O43  1  0.456344  0.226741  0.731050  1
+  O  O44  1  0.543656  0.773259  0.268950  1
+  O  O45  1  0.191750  0.741489  0.112477  1
+  O  O46  1  0.808250  0.258511  0.887523  1
+ 
+# Source:                            Grazulis_etal:NucleicAcidsRes.40.D420(2012)                                     
+# Class:                             organic_molec_crystal                                                           
+# Label:                             COD-7030431                                                                     
+# Structure prediction method used:  NA                                                                              
+# Number of atoms:                    46
+# Number of atom types:                3
+# Atom types:                         C  H  O
+# Dielectric constant, electronic:   3.43481E+00
+# Dielectric constant, ionic:        3.53628E-01
+# Dielectric constant, total:        3.78844E+00
+# Band gap at the GGA level (eV):    2.40830E+00
+# Band gap at the HSE06 level (eV):  3.27310E+00
+# Atomization energy (eV/atom):     -6.33521E+00
+# Volume of the unit cell (A^3):     3.89849E+02
