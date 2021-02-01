@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_H4C8SO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.60602630
+_cell_length_b   6.26900117
+_cell_length_c   6.91533741
+_cell_angle_alpha   79.44422190
+_cell_angle_beta   82.00842697
+_cell_angle_gamma   80.12153463
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H4C8SO2
+_chemical_formula_sum   'H4 C8 S1 O2'
+_cell_volume   150.468001094
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C1  1  0.342208  0.727582  0.435875  1
+  C  C2  1  0.561963  0.661883  0.270089  1
+  C  C3  1  0.286840  0.574746  0.609830  1
+  C  C4  1  0.716671  0.439467  0.271037  1
+  C  C5  1  0.455306  0.354519  0.614327  1
+  C  C6  1  0.657227  0.286876  0.444733  1
+  C  C7  1  0.923029  0.368169  0.089799  1
+  C  C8  1  0.039110  0.650287  0.779321  1
+  H  H9  1  0.417948  0.235195  0.746733  1
+  H  H10  1  0.604072  0.779682  0.137269  1
+  H  H11  1  0.220618  0.897982  0.433379  1
+  H  H12  1  0.772115  0.115450  0.448285  1
+  O  O13  1  0.792308  0.809521  0.771524  1
+  O  O14  1  0.119441  0.529965  0.970325  1
+  S  S15  1  0.949413  0.124245  0.032680  1
+ 
+# Source:                            Mannodi-Kanakkithodi_etal:SciRep.inpress(2016)                                  
+# Class:                             organic_polymer_crystal                                                         
+# Label:                             CO-C6H4-CS-O                                                                    
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    15
+# Number of atom types:                4
+# Atom types:                         C  H  O  S
+# Dielectric constant, electronic:   4.16032E+00
+# Dielectric constant, ionic:        1.33839E+00
+# Dielectric constant, total:        5.49872E+00
+# Band gap at the GGA level (eV):    1.45060E+00
+# Band gap at the HSE06 level (eV):  2.51440E+00
+# Atomization energy (eV/atom):     -6.34573E+00
+# Volume of the unit cell (A^3):     1.50468E+02

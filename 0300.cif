@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_HCNO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.21570035
+_cell_length_b   2.41055576
+_cell_length_c   3.92308106
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   103.03312784
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HCNO
+_chemical_formula_sum   'H1 C1 N1 O1'
+_cell_volume   29.6268801604
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C1  1  0.576516  0.500000  0.565257  1
+  H  H2  1  0.203595  0.000000  0.164116  1
+  N  N3  1  0.423740  0.000000  0.398351  1
+  O  O4  1  0.840209  0.500000  0.846317  1
+ 
+# Source:                            Mannodi-Kanakkithodi_etal:SciRep.inpress(2016)                                  
+# Class:                             organic_polymer_crystal                                                         
+# Label:                             NH-CO-NH-CO                                                                     
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                     4
+# Number of atom types:                4
+# Atom types:                         C  H  N  O
+# Dielectric constant, electronic:   3.51116E+00
+# Dielectric constant, ionic:        1.95618E+00
+# Dielectric constant, total:        5.46735E+00
+# Band gap at the GGA level (eV):    2.16790E+00
+# Band gap at the HSE06 level (eV):  3.98670E+00
+# Atomization energy (eV/atom):     -6.46409E+00
+# Volume of the unit cell (A^3):     2.96269E+01

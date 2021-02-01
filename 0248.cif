@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_C2SO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.22485342
+_cell_length_b   5.27636998
+_cell_length_c   8.10104433
+_cell_angle_alpha   96.19869105
+_cell_angle_beta   98.33624096
+_cell_angle_gamma   110.47391457
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   C2SO3
+_chemical_formula_sum   'C4 S2 O6'
+_cell_volume   164.921375616
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C1  1  0.662103  0.837246  0.821440  1
+  C  C2  1  0.662238  0.337191  0.321328  1
+  C  C3  1  0.140740  0.363888  0.206831  1
+  C  C4  1  0.140237  0.863161  0.706886  1
+  O  O5  1  0.377651  0.729245  0.696600  1
+  O  O6  1  0.378196  0.230074  0.196208  1
+  O  O7  1  0.713012  0.003036  0.945123  1
+  O  O8  1  0.712653  0.502035  0.445427  1
+  O  O9  1  0.897268  0.711266  0.787973  1
+  O  O10  1  0.897562  0.211479  0.287620  1
+  S  S11  1  0.168753  0.637980  0.133155  1
+  S  S12  1  0.168058  0.136758  0.632636  1
+ 
+# Source:                            Mannodi-Kanakkithodi_etal:SciRep.inpress(2016)                                  
+# Class:                             organic_polymer_crystal                                                         
+# Label:                             CO-O-CS-O                                                                       
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    12
+# Number of atom types:                3
+# Atom types:                         C  O  S
+# Dielectric constant, electronic:   3.02646E+00
+# Dielectric constant, ionic:        1.22218E+00
+# Dielectric constant, total:        4.24864E+00
+# Band gap at the GGA level (eV):    2.54180E+00
+# Band gap at the HSE06 level (eV):  3.93780E+00
+# Atomization energy (eV/atom):     -6.19939E+00
+# Volume of the unit cell (A^3):     1.64921E+02
