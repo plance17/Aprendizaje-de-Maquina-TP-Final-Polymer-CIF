@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_SnH4(CCl)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.60952141
+_cell_length_b   6.26787114
+_cell_length_c   10.03213605
+_cell_angle_alpha   76.73399326
+_cell_angle_beta   76.83328423
+_cell_angle_gamma   68.69911458
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnH4(CCl)2
+_chemical_formula_sum   'Sn2 H8 C4 Cl4'
+_cell_volume   259.485491524
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn1  1  0.986743  0.789536  0.268398  1
+  Sn  Sn2  1  0.014824  0.285810  0.767568  1
+  C  C3  1  0.884453  0.479633  0.556737  1
+  C  C4  1  0.117124  0.595704  0.479221  1
+  C  C5  1  0.867237  0.091140  0.978065  1
+  C  C6  1  0.134410  0.984137  0.057885  1
+  Cl  Cl7  1  0.557485  0.017964  0.695490  1
+  Cl  Cl8  1  0.444083  0.057406  0.340438  1
+  Cl  Cl9  1  0.218865  0.554295  0.840442  1
+  Cl  Cl10  1  0.782742  0.521023  0.195527  1
+  H  H11  1  0.331139  0.846929  0.013107  1
+  H  H12  1  0.670487  0.228327  0.022860  1
+  H  H13  1  0.122617  0.735062  0.525693  1
+  H  H14  1  0.878965  0.340277  0.510277  1
+  H  H15  1  0.214139  0.107668  0.087464  1
+  H  H16  1  0.787528  0.967598  0.948482  1
+  H  H17  1  0.352953  0.477823  0.450045  1
+  H  H18  1  0.648626  0.597518  0.585921  1
+ 
+# Source:                            Huan_etal:SciDat(submitted)                                                     
+# Class:                             organometallic_polymer_crystal                                                  
+# Label:                             SnCl2-based_polymer                                                             
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    18
+# Number of atom types:                4
+# Atom types:                        Sn  C Cl  H
+# Dielectric constant, electronic:   5.33122E+00
+# Dielectric constant, ionic:        2.27157E+00
+# Dielectric constant, total:        7.60279E+00
+# Band gap at the GGA level (eV):    1.52820E+00
+# Band gap at the HSE06 level (eV):  2.38380E+00
+# Atomization energy (eV/atom):     -4.40026E+00
+# Volume of the unit cell (A^3):     2.59485E+02

@@ -1,0 +1,78 @@
+# generated using pymatgen
+data_CdH20(C3O)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.85821147
+_cell_length_b   4.14030432
+_cell_length_c   16.90605481
+_cell_angle_alpha   89.34621641
+_cell_angle_beta   87.58750149
+_cell_angle_gamma   87.75732956
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdH20(C3O)4
+_chemical_formula_sum   'Cd1 H20 C12 O4'
+_cell_volume   269.601262655
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C1  1  0.582282  0.366347  0.264734  1
+  C  C2  1  0.388889  0.512663  0.336048  1
+  C  C3  1  0.578856  0.687843  0.400167  1
+  C  C4  1  0.691716  0.473097  0.469877  1
+  C  C5  1  0.811353  0.667340  0.539791  1
+  C  C6  1  0.918781  0.457089  0.610595  1
+  C  C7  1  0.017776  0.655122  0.681750  1
+  C  C8  1  0.130973  0.448213  0.752619  1
+  C  C9  1  0.215812  0.651245  0.823986  1
+  C  C10  1  0.329466  0.451365  0.896006  1
+  C  C11  1  0.389046  0.672874  0.965691  1
+  C  C12  1  0.500225  0.513349  0.042291  1
+  H  H13  1  0.211290  0.687860  0.309568  1
+  H  H14  1  0.230282  0.324558  0.362458  1
+  H  H15  1  0.705753  0.301213  0.628665  1
+  H  H16  1  0.137430  0.293628  0.592463  1
+  H  H17  1  0.925115  0.283420  0.770049  1
+  H  H18  1  0.358124  0.294312  0.734821  1
+  H  H19  1  0.128926  0.282426  0.913446  1
+  H  H20  1  0.566819  0.307974  0.880778  1
+  H  H21  1  0.395721  0.874132  0.424146  1
+  H  H22  1  0.471645  0.330404  0.490366  1
+  H  H23  1  0.600112  0.837147  0.559127  1
+  H  H24  1  0.027650  0.816796  0.520268  1
+  H  H25  1  0.796002  0.814319  0.700428  1
+  H  H26  1  0.226815  0.815405  0.663504  1
+  H  H27  1  0.986408  0.803475  0.841381  1
+  H  H28  1  0.419192  0.818730  0.806453  1
+  H  H29  1  0.155111  0.822764  0.979068  1
+  H  H30  1  0.592429  0.841453  0.949270  1
+  H  H31  1  0.796521  0.818565  0.373925  1
+  H  H32  1  0.895892  0.296848  0.450740  1
+  O  O33  1  0.845050  0.494525  0.230939  1
+  O  O34  1  0.468658  0.102104  0.236682  1
+  O  O35  1  0.378340  0.634880  0.108207  1
+  O  O36  1  0.723935  0.276175  0.039693  1
+  Cd  Cd37  1  0.956839  0.002525  0.152129  1
+ 
+# Source:                            Huan_etal:SciDat(submitted)                                                     
+# Class:                             organometallic_polymer_crystal                                                  
+# Label:                             Cd-based_polymer                                                                
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    37
+# Number of atom types:                4
+# Atom types:                         C  H  O Cd
+# Dielectric constant, electronic:   2.95393E+00
+# Dielectric constant, ionic:        9.53760E+00
+# Dielectric constant, total:        1.24915E+01
+# Band gap at the GGA level (eV):    3.32910E+00
+# Band gap at the HSE06 level (eV):  5.07760E+00
+# Atomization energy (eV/atom):     -5.33790E+00
+# Volume of the unit cell (A^3):     2.69601E+02

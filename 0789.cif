@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_SnH12(C3F)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.20573415
+_cell_length_b   4.54951023
+_cell_length_c   18.34208871
+_cell_angle_alpha   87.95311626
+_cell_angle_beta   89.04332848
+_cell_angle_gamma   65.14122621
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnH12(C3F)2
+_chemical_formula_sum   'Sn2 H24 C12 F4'
+_cell_volume   318.236938128
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn1  1  0.120590  0.624957  0.471316  1
+  Sn  Sn2  1  0.527154  0.561377  0.968663  1
+  C  C3  1  0.169212  0.549687  0.355184  1
+  C  C4  1  0.816423  0.172569  0.822926  1
+  C  C5  1  0.541043  0.484934  0.852926  1
+  C  C6  1  0.905140  0.829549  0.232003  1
+  C  C7  1  0.884471  0.841986  0.316252  1
+  C  C8  1  0.905308  0.138695  0.197086  1
+  C  C9  1  0.737384  0.140970  0.742703  1
+  C  C10  1  0.998866  0.833955  0.707115  1
+  C  C11  1  0.909569  0.823494  0.626757  1
+  C  C12  1  0.179485  0.531139  0.587800  1
+  C  C13  1  0.881694  0.156862  0.112522  1
+  C  C14  1  0.572772  0.462113  0.085249  1
+  F  F15  1  0.557301  0.779797  0.473744  1
+  F  F16  1  0.895596  0.140838  0.468705  1
+  F  F17  1  0.963228  0.707920  0.973769  1
+  F  F18  1  0.302901  0.073961  0.962850  1
+  H  H19  1  0.626584  0.867496  0.334991  1
+  H  H20  1  0.903574  0.061617  0.333151  1
+  H  H21  1  0.147919  0.323401  0.346648  1
+  H  H22  1  0.432253  0.520659  0.340202  1
+  H  H23  1  0.077385  0.167044  0.827829  1
+  H  H24  1  0.821125  0.965955  0.855561  1
+  H  H25  1  0.278454  0.500977  0.844828  1
+  H  H26  1  0.554607  0.699312  0.827459  1
+  H  H27  1  0.682347  0.794578  0.211068  1
+  H  H28  1  0.139979  0.621546  0.215023  1
+  H  H29  1  0.683814  0.344017  0.219720  1
+  H  H30  1  0.140458  0.162785  0.214692  1
+  H  H31  1  0.473723  0.149862  0.738970  1
+  H  H32  1  0.729228  0.352025  0.710823  1
+  H  H33  1  0.006438  0.619344  0.737164  1
+  H  H34  1  0.262791  0.823788  0.710567  1
+  H  H35  1  0.157802  0.305379  0.601145  1
+  H  H36  1  0.446521  0.497830  0.598185  1
+  H  H37  1  0.889729  0.046602  0.598868  1
+  H  H38  1  0.648976  0.826690  0.622392  1
+  H  H39  1  0.854487  0.945406  0.092770  1
+  H  H40  1  0.123920  0.147087  0.088271  1
+  H  H41  1  0.582858  0.680457  0.105369  1
+  H  H42  1  0.322934  0.461733  0.101475  1
+ 
+# Source:                            Huan_etal:SciDat(submitted)                                                     
+# Class:                             organometallic_polymer_crystal                                                  
+# Label:                             SnF2-based_polymer                                                              
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    42
+# Number of atom types:                4
+# Atom types:                        Sn  C  F  H
+# Dielectric constant, electronic:   3.11904E+00
+# Dielectric constant, ionic:        2.35280E+00
+# Dielectric constant, total:        5.47184E+00
+# Band gap at the GGA level (eV):    4.19920E+00
+# Band gap at the HSE06 level (eV):  5.58790E+00
+# Atomization energy (eV/atom):     -4.99228E+00
+# Volume of the unit cell (A^3):     3.18237E+02

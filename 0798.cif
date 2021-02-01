@@ -1,0 +1,61 @@
+# generated using pymatgen
+data_H8PbC6SO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.17768626
+_cell_length_b   4.93790070
+_cell_length_c   10.21100867
+_cell_angle_alpha   88.35402573
+_cell_angle_beta   85.07589527
+_cell_angle_gamma   66.08835962
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H8PbC6SO4
+_chemical_formula_sum   'H8 Pb1 C6 S1 O4'
+_cell_volume   191.848801239
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C1  1  0.970723  0.272940  0.262667  1
+  C  C2  1  0.003299  0.468798  0.367763  1
+  C  C3  1  0.270680  0.306428  0.466601  1
+  C  C4  1  0.822416  0.317415  0.690768  1
+  C  C5  1  0.936862  0.474853  0.791867  1
+  C  C6  1  0.154261  0.275666  0.895915  1
+  H  H7  1  0.092071  0.628567  0.317233  1
+  H  H8  1  0.742297  0.599399  0.415256  1
+  H  H9  1  0.523726  0.168389  0.416708  1
+  H  H10  1  0.306150  0.471015  0.525144  1
+  H  H11  1  0.688394  0.188242  0.738773  1
+  H  H12  1  0.638961  0.486155  0.631391  1
+  H  H13  1  0.075648  0.604272  0.746494  1
+  H  H14  1  0.694202  0.635623  0.842759  1
+  O  O15  1  0.205470  0.008057  0.244837  1
+  O  O16  1  0.312253  0.380637  0.969622  1
+  O  O17  1  0.172936  0.010754  0.909850  1
+  O  O18  1  0.708293  0.379691  0.191509  1
+  S  S19  1  0.167530  0.052038  0.579436  1
+  Pb  Pb20  1  0.732262  0.921605  0.078329  1
+ 
+# Source:                            Huan_etal:SciDat(submitted)                                                     
+# Class:                             organometallic_polymer_crystal                                                  
+# Label:                             Pb-based_polymer                                                                
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    20
+# Number of atom types:                5
+# Atom types:                         C  H  O  S Pb
+# Dielectric constant, electronic:   3.39340E+00
+# Dielectric constant, ionic:        3.90300E+00
+# Dielectric constant, total:        7.29640E+00
+# Band gap at the GGA level (eV):    3.06780E+00
+# Band gap at the HSE06 level (eV):  4.36240E+00
+# Atomization energy (eV/atom):     -5.59090E+00
+# Volume of the unit cell (A^3):     1.91849E+02
