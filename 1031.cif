@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_H7C4NO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.21375051
+_cell_length_b   5.43474350
+_cell_length_c   7.64885746
+_cell_angle_alpha   95.70835828
+_cell_angle_beta   108.44178614
+_cell_angle_gamma   109.70038390
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H7C4NO
+_chemical_formula_sum   'H14 C8 N2 O2'
+_cell_volume   188.34419803
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C1  1  0.066655  0.158329  0.192659  1
+  C  C2  1  0.933345  0.841671  0.807341  1
+  C  C3  1  0.185471  0.115390  0.897616  1
+  C  C4  1  0.814529  0.884610  0.102384  1
+  C  C5  1  0.953882  0.364334  0.256061  1
+  C  C6  1  0.046118  0.635666  0.743939  1
+  C  C7  1  0.298028  0.125747  0.363022  1
+  C  C8  1  0.701972  0.874253  0.636978  1
+  H  H9  1  0.378835  0.981002  0.315885  1
+  H  H10  1  0.621165  0.018998  0.684115  1
+  H  H11  1  0.207781  0.064998  0.469669  1
+  H  H12  1  0.792219  0.935002  0.530331  1
+  H  H13  1  0.483616  0.318948  0.427482  1
+  H  H14  1  0.516384  0.681052  0.572518  1
+  H  H15  1  0.372364  0.447610  0.110625  1
+  H  H16  1  0.627636  0.552390  0.889375  1
+  H  H17  1  0.130912  0.563567  0.307069  1
+  H  H18  1  0.869088  0.436433  0.692931  1
+  H  H19  1  0.878124  0.312400  0.369800  1
+  H  H20  1  0.121876  0.687600  0.630200  1
+  H  H21  1  0.774194  0.368955  0.137875  1
+  H  H22  1  0.225806  0.631045  0.862125  1
+  N  N23  1  0.208648  0.256968  0.059482  1
+  N  N24  1  0.791352  0.743032  0.940518  1
+  O  O25  1  0.352802  0.208387  0.810791  1
+  O  O26  1  0.647198  0.791613  0.189209  1
+ 
+# Source:                            Grazulis_etal:NucleicAcidsRes.40.D420(2012)                                     
+# Class:                             organic_molec_crystal                                                           
+# Label:                             COD-4505427                                                                     
+# Structure prediction method used:  NA                                                                              
+# Number of atoms:                    26
+# Number of atom types:                4
+# Atom types:                         C  H  N  O
+# Dielectric constant, electronic:   2.76721E+00
+# Dielectric constant, ionic:        4.84910E-01
+# Dielectric constant, total:        3.25212E+00
+# Band gap at the GGA level (eV):    4.43590E+00
+# Band gap at the HSE06 level (eV):  6.23140E+00
+# Atomization energy (eV/atom):     -5.56455E+00
+# Volume of the unit cell (A^3):     1.88344E+02

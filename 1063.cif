@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_SnH12C5O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.15688106
+_cell_length_b   7.71843486
+_cell_length_c   8.13547428
+_cell_angle_alpha   96.88539730
+_cell_angle_beta   97.28707202
+_cell_angle_gamma   109.27633096
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnH12C5O4
+_chemical_formula_sum   'Sn2 H24 C10 O8'
+_cell_volume   356.545081259
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C1  1  0.102759  0.097707  0.332916  1
+  C  C2  1  0.897239  0.902293  0.667083  1
+  C  C3  1  0.218344  0.596834  0.384389  1
+  C  C4  1  0.781653  0.403165  0.615612  1
+  C  C5  1  0.532434  0.950862  0.175846  1
+  C  C6  1  0.467564  0.049138  0.824152  1
+  C  C7  1  0.329531  0.493125  0.790353  1
+  C  C8  1  0.670470  0.506880  0.209651  1
+  C  C9  1  0.095456  0.305041  0.966190  1
+  C  C10  1  0.904544  0.694955  0.033810  1
+  H  H11  1  0.023521  0.956827  0.356355  1
+  H  H12  1  0.976484  0.043176  0.643653  1
+  H  H13  1  0.116967  0.096142  0.201163  1
+  H  H14  1  0.883036  0.903849  0.798835  1
+  H  H15  1  0.999792  0.181144  0.370048  1
+  H  H16  1  0.000203  0.818857  0.629943  1
+  H  H17  1  0.167060  0.468219  0.434384  1
+  H  H18  1  0.832944  0.531784  0.565623  1
+  H  H19  1  0.092584  0.666223  0.398256  1
+  H  H20  1  0.907411  0.333774  0.601741  1
+  H  H21  1  0.238607  0.572385  0.253893  1
+  H  H22  1  0.761394  0.427610  0.746109  1
+  H  H23  1  0.694004  0.025937  0.134211  1
+  H  H24  1  0.305994  0.974057  0.865784  1
+  H  H25  1  0.484965  0.801623  0.133854  1
+  H  H26  1  0.515030  0.198376  0.866150  1
+  H  H27  1  0.394292  0.995953  0.120493  1
+  H  H28  1  0.605707  0.004046  0.879501  1
+  H  H29  1  0.033881  0.332092  0.082418  1
+  H  H30  1  0.966123  0.667900  0.917582  1
+  H  H31  1  0.199720  0.216212  0.977346  1
+  H  H32  1  0.800279  0.783784  0.022647  1
+  H  H33  1  0.947776  0.243123  0.863491  1
+  H  H34  1  0.052226  0.756877  0.136510  1
+  O  O35  1  0.566279  0.994890  0.357217  1
+  O  O36  1  0.433719  0.005117  0.642781  1
+  O  O37  1  0.278640  0.340201  0.689842  1
+  O  O38  1  0.721360  0.659805  0.310159  1
+  O  O39  1  0.548609  0.344442  0.228831  1
+  O  O40  1  0.451390  0.655563  0.771175  1
+  O  O41  1  0.758018  0.511106  0.061288  1
+  O  O42  1  0.241985  0.488894  0.938715  1
+  Sn  Sn43  1  0.452562  0.211900  0.475751  1
+  Sn  Sn44  1  0.547442  0.788113  0.524249  1
+ 
+# Source:                            Grazulis_etal:NucleicAcidsRes.40.D420(2012)                                     
+# Class:                             organometallic_Sn_molec_crystal                                                 
+# Label:                             COD-4116358                                                                     
+# Structure prediction method used:  NA                                                                              
+# Number of atoms:                    44
+# Number of atom types:                4
+# Atom types:                         C  H  O Sn
+# Dielectric constant, electronic:   2.91047E+00
+# Dielectric constant, ionic:        2.76593E+00
+# Dielectric constant, total:        5.67639E+00
+# Band gap at the GGA level (eV):    4.44220E+00
+# Band gap at the HSE06 level (eV):  6.11100E+00
+# Atomization energy (eV/atom):     -5.12006E+00
+# Volume of the unit cell (A^3):     3.56545E+02
