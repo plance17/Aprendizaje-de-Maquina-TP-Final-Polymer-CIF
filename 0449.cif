@@ -1,0 +1,61 @@
+# generated using pymatgen
+data_CaH2C3O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.49094006
+_cell_length_b   6.18283521
+_cell_length_c   6.95774775
+_cell_angle_alpha   94.21355886
+_cell_angle_beta   98.60302741
+_cell_angle_gamma   94.66469915
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaH2C3O4
+_chemical_formula_sum   'Ca2 H4 C6 O8'
+_cell_volume   189.667285586
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca1  1  0.993137  0.204691  0.556603  1
+  Ca  Ca2  1  0.993143  0.204688  0.056602  1
+  O  O3  1  0.804198  0.456694  0.786957  1
+  O  O4  1  0.804212  0.456694  0.286955  1
+  O  O5  1  0.466336  0.022224  0.588230  1
+  O  O6  1  0.466354  0.022221  0.088229  1
+  O  O7  1  0.861263  0.937425  0.792591  1
+  O  O8  1  0.861276  0.937424  0.292594  1
+  O  O9  1  0.357021  0.347275  0.866210  1
+  O  O10  1  0.357037  0.347272  0.366207  1
+  C  C11  1  0.531870  0.489103  0.802072  1
+  C  C12  1  0.531883  0.489101  0.302071  1
+  C  C13  1  0.587152  0.892846  0.704048  1
+  C  C14  1  0.587164  0.892847  0.204047  1
+  C  C15  1  0.392670  0.691750  0.735328  1
+  C  C16  1  0.392683  0.691751  0.235333  1
+  H  H17  1  0.243207  0.744008  0.835612  1
+  H  H18  1  0.243238  0.744013  0.335627  1
+  H  H19  1  0.235524  0.644128  0.600316  1
+  H  H20  1  0.235523  0.644135  0.100327  1
+ 
+# Source:                            Huan_etal:SciDat(submitted)                                                     
+# Class:                             organometallic_polymer_crystal                                                  
+# Label:                             Ca-based_polymer                                                                
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    20
+# Number of atom types:                4
+# Atom types:                        Ca  O  C  H
+# Dielectric constant, electronic:   2.94151E+00
+# Dielectric constant, ionic:        3.61810E+00
+# Dielectric constant, total:        6.55961E+00
+# Band gap at the GGA level (eV):    4.00050E+00
+# Band gap at the HSE06 level (eV):  5.91940E+00
+# Atomization energy (eV/atom):     -6.47983E+00
+# Volume of the unit cell (A^3):     1.89667E+02

@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_CaH4(CO)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.18756343
+_cell_length_b   7.14205773
+_cell_length_c   8.37488928
+_cell_angle_alpha   67.14976905
+_cell_angle_beta   87.46232051
+_cell_angle_gamma   88.89600522
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaH4(CO)4
+_chemical_formula_sum   'Ca2 H8 C8 O8'
+_cell_volume   230.591250247
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca1  1  0.780493  0.577175  0.705429  1
+  Ca  Ca2  1  0.780493  0.077175  0.705429  1
+  O  O3  1  0.895280  0.921328  0.499493  1
+  O  O4  1  0.895279  0.421328  0.499493  1
+  O  O5  1  0.464388  0.368981  0.956719  1
+  O  O6  1  0.464390  0.868982  0.956718  1
+  O  O7  1  0.061543  0.267417  0.841496  1
+  O  O8  1  0.061544  0.767417  0.841496  1
+  O  O9  1  0.309196  0.705687  0.551794  1
+  O  O10  1  0.309194  0.205689  0.551793  1
+  C  C11  1  0.170363  0.869549  0.454401  1
+  C  C12  1  0.170366  0.369547  0.454401  1
+  C  C13  1  0.218784  0.260244  0.973101  1
+  C  C14  1  0.218781  0.760242  0.973101  1
+  C  C15  1  0.324673  0.000456  0.281174  1
+  C  C16  1  0.324672  0.500456  0.281173  1
+  C  C17  1  0.082253  0.124916  0.150359  1
+  C  C18  1  0.082253  0.624916  0.150359  1
+  H  H19  1  0.464800  0.904313  0.230622  1
+  H  H20  1  0.464800  0.404313  0.230622  1
+  H  H21  1  0.493026  0.097806  0.307629  1
+  H  H22  1  0.493026  0.597806  0.307629  1
+  H  H23  1  0.948105  0.223996  0.201224  1
+  H  H24  1  0.948105  0.723996  0.201224  1
+  H  H25  1  0.905491  0.027482  0.130461  1
+  H  H26  1  0.905491  0.527482  0.130461  1
+ 
+# Source:                            Huan_etal:SciDat(submitted)                                                     
+# Class:                             organometallic_polymer_crystal                                                  
+# Label:                             Ca-based_polymer                                                                
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    26
+# Number of atom types:                4
+# Atom types:                        Ca  O  C  H
+# Dielectric constant, electronic:   2.88806E+00
+# Dielectric constant, ionic:        2.52662E+00
+# Dielectric constant, total:        5.41468E+00
+# Band gap at the GGA level (eV):    4.39360E+00
+# Band gap at the HSE06 level (eV):  6.31760E+00
+# Atomization energy (eV/atom):     -6.18249E+00
+# Volume of the unit cell (A^3):     2.30591E+02

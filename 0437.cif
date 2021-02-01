@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_TiH2(CO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.50523929
+_cell_length_b   5.35143740
+_cell_length_c   5.36196612
+_cell_angle_alpha   61.50981128
+_cell_angle_beta   66.71940020
+_cell_angle_gamma   66.77840066
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiH2(CO3)2
+_chemical_formula_sum   'Ti1 H2 C2 O6'
+_cell_volume   100.921794959
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C1  1  0.570780  0.796676  0.558576  1
+  C  C2  1  0.383917  0.693092  0.456363  1
+  H  H3  1  0.987417  0.675590  0.039662  1
+  H  H4  1  0.959395  0.209062  0.572907  1
+  O  O5  1  0.070310  0.469002  0.161461  1
+  O  O6  1  0.882532  0.089932  0.781763  1
+  O  O7  1  0.639275  0.044024  0.378901  1
+  O  O8  1  0.640177  0.633802  0.800459  1
+  O  O9  1  0.315989  0.872011  0.209250  1
+  O  O10  1  0.314317  0.450831  0.619856  1
+  Ti  Ti11  1  0.477697  0.238374  0.013977  1
+ 
+# Source:                            Huan_etal:SciDat(submitted)                                                     
+# Class:                             organometallic_polymer_crystal                                                  
+# Label:                             Ti-based_polymer                                                                
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    11
+# Number of atom types:                4
+# Atom types:                         C  H  O Ti
+# Dielectric constant, electronic:   4.04479E+00
+# Dielectric constant, ionic:        6.23867E+00
+# Dielectric constant, total:        1.02835E+01
+# Band gap at the GGA level (eV):    2.37120E+00
+# Band gap at the HSE06 level (eV):  4.14790E+00
+# Atomization energy (eV/atom):     -6.62275E+00
+# Volume of the unit cell (A^3):     1.00922E+02

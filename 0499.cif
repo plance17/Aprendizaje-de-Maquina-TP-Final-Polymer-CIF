@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_ZnH6C5O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.06893776
+_cell_length_b   4.78071256
+_cell_length_c   7.50795759
+_cell_angle_alpha   85.21804222
+_cell_angle_beta   96.70153330
+_cell_angle_gamma   113.45636826
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnH6C5O4
+_chemical_formula_sum   'Zn1 H6 C5 O4'
+_cell_volume   132.954400419
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C1  1  0.502115  0.275573  0.471648  1
+  C  C2  1  0.251100  0.186824  0.618158  1
+  C  C3  1  0.414873  0.058076  0.785243  1
+  C  C4  1  0.691763  0.316450  0.896632  1
+  C  C5  1  0.887943  0.214291  0.055114  1
+  H  H6  1  0.213834  0.389002  0.652116  1
+  H  H7  1  0.992747  0.014900  0.571006  1
+  H  H8  1  0.534868  0.908428  0.743734  1
+  H  H9  1  0.896687  0.474592  0.813545  1
+  H  H10  1  0.199984  0.917957  0.867225  1
+  H  H11  1  0.565957  0.455008  0.946251  1
+  O  O12  1  0.734594  0.552282  0.467433  1
+  O  O13  1  0.497899  0.075947  0.366736  1
+  O  O14  1  0.822871  0.929217  0.073703  1
+  O  O15  1  0.121509  0.412008  0.159444  1
+  Zn  Zn16  1  0.052650  0.743379  0.270521  1
+ 
+# Source:                            Huan_etal:SciDat(submitted)                                                     
+# Class:                             organometallic_polymer_crystal                                                  
+# Label:                             Zn-based_polymer                                                                
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    16
+# Number of atom types:                4
+# Atom types:                         C  H  O Zn
+# Dielectric constant, electronic:   2.89710E+00
+# Dielectric constant, ionic:        1.75351E+00
+# Dielectric constant, total:        4.65061E+00
+# Band gap at the GGA level (eV):    4.49830E+00
+# Band gap at the HSE06 level (eV):  6.36410E+00
+# Atomization energy (eV/atom):     -5.65317E+00
+# Volume of the unit cell (A^3):     1.32954E+02

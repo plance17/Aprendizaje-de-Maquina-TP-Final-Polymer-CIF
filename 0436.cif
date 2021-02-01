@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_TiH6(CO)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.98579618
+_cell_length_b   5.60721201
+_cell_length_c   5.91636562
+_cell_angle_alpha   118.26442249
+_cell_angle_beta   113.38961256
+_cell_angle_gamma   90.02028259
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiH6(CO)4
+_chemical_formula_sum   'Ti1 H6 C4 O4'
+_cell_volume   130.029424368
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C1  1  0.947392  0.078664  0.582687  1
+  C  C2  1  0.098459  0.747849  0.921130  1
+  C  C3  1  0.458570  0.545285  0.359306  1
+  C  C4  1  0.587349  0.437937  0.144323  1
+  H  H5  1  0.914666  0.188106  0.775864  1
+  H  H6  1  0.042533  0.903440  0.570908  1
+  H  H7  1  0.086997  0.218901  0.571618  1
+  H  H8  1  0.003321  0.584179  0.932699  1
+  H  H9  1  0.958809  0.899029  0.932272  1
+  H  H10  1  0.131249  0.664488  0.727992  1
+  O  O11  1  0.403220  0.367870  0.428620  1
+  O  O12  1  0.414944  0.785631  0.446634  1
+  O  O13  1  0.642769  0.191315  0.074991  1
+  O  O14  1  0.630889  0.591070  0.056989  1
+  Ti  Ti15  1  0.522983  0.008828  0.251777  1
+ 
+# Source:                            Huan_etal:SciDat(submitted)                                                     
+# Class:                             organometallic_polymer_crystal                                                  
+# Label:                             Ti-based_polymer                                                                
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    15
+# Number of atom types:                4
+# Atom types:                         C  H  O Ti
+# Dielectric constant, electronic:   4.06453E+00
+# Dielectric constant, ionic:        2.70099E+00
+# Dielectric constant, total:        6.76553E+00
+# Band gap at the GGA level (eV):    1.33000E+00
+# Band gap at the HSE06 level (eV):  2.88710E+00
+# Atomization energy (eV/atom):     -5.82779E+00
+# Volume of the unit cell (A^3):     1.30029E+02

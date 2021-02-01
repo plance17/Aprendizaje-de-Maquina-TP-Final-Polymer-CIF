@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_AlH6C5ClO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.12288742
+_cell_length_b   5.98748400
+_cell_length_c   6.01256434
+_cell_angle_alpha   62.19691165
+_cell_angle_beta   77.27522926
+_cell_angle_gamma   85.23458855
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlH6C5ClO4
+_chemical_formula_sum   'Al1 H6 C5 Cl1 O4'
+_cell_volume   159.08588447
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl1  1  0.355110  0.108965  0.080707  1
+  C  C2  1  0.693542  0.748003  0.781107  1
+  C  C3  1  0.154434  0.407111  0.506504  1
+  C  C4  1  0.749792  0.556732  0.035163  1
+  C  C5  1  0.880894  0.662642  0.174346  1
+  C  C6  1  0.878429  0.445533  0.450722  1
+  H  H7  1  0.739602  0.483742  0.593131  1
+  H  H8  1  0.804828  0.272041  0.469598  1
+  H  H9  1  0.084670  0.728949  0.071672  1
+  H  H10  1  0.772195  0.824312  0.181174  1
+  H  H11  1  0.563518  0.458456  0.154407  1
+  H  H12  1  0.884175  0.417376  0.001455  1
+  O  O13  1  0.454799  0.764444  0.747042  1
+  O  O14  1  0.883893  0.885842  0.597919  1
+  O  O15  1  0.278615  0.203601  0.534818  1
+  O  O16  1  0.275203  0.582022  0.513487  1
+  Al  Al17  1  0.249198  0.907658  0.499626  1
+ 
+# Source:                            Huan_etal:SciDat(submitted)                                                     
+# Class:                             organometallic_polymer_crystal                                                  
+# Label:                             Al-based_polymer                                                                
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    17
+# Number of atom types:                5
+# Atom types:                        Cl  C  H  O Al
+# Dielectric constant, electronic:   2.81374E+00
+# Dielectric constant, ionic:        1.67518E+00
+# Dielectric constant, total:        4.48892E+00
+# Band gap at the GGA level (eV):    4.20370E+00
+# Band gap at the HSE06 level (eV):  5.90200E+00
+# Atomization energy (eV/atom):     -5.81177E+00
+# Volume of the unit cell (A^3):     1.59086E+02

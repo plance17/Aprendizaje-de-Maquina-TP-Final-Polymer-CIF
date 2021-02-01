@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_ZnH2C3O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.17947052
+_cell_length_b   4.51913051
+_cell_length_c   5.19060885
+_cell_angle_alpha   89.53131206
+_cell_angle_beta   77.51075511
+_cell_angle_gamma   87.33981237
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnH2C3O4
+_chemical_formula_sum   'Zn1 H2 C3 O4'
+_cell_volume   95.6147691435
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C1  1  0.382073  0.564736  0.738014  1
+  C  C2  1  0.176946  0.658578  0.974808  1
+  C  C3  1  0.236637  0.889265  0.140309  1
+  H  H4  1  0.028856  0.008717  0.811678  1
+  H  H5  1  0.945546  0.553550  0.031460  1
+  O  O6  1  0.302389  0.319552  0.598855  1
+  O  O7  1  0.641359  0.666522  0.603611  1
+  O  O8  1  0.963722  0.196651  0.728928  1
+  O  O9  1  0.517287  0.007823  0.104472  1
+  Zn  Zn10  1  0.804900  0.034691  0.378417  1
+ 
+# Source:                            Huan_etal:SciDat(submitted)                                                     
+# Class:                             organometallic_polymer_crystal                                                  
+# Label:                             Zn-based_polymer                                                                
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    10
+# Number of atom types:                4
+# Atom types:                         C  H  O Zn
+# Dielectric constant, electronic:   4.76703E+00
+# Dielectric constant, ionic:        3.80040E+00
+# Dielectric constant, total:        8.56743E+00
+# Band gap at the GGA level (eV):    1.04200E+00
+# Band gap at the HSE06 level (eV):  2.77300E+00
+# Atomization energy (eV/atom):     -5.40490E+00
+# Volume of the unit cell (A^3):     9.56148E+01

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_ZnH4(CO)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.39862058
+_cell_length_b   4.40558400
+_cell_length_c   7.26429169
+_cell_angle_alpha   92.07028006
+_cell_angle_beta   91.60890167
+_cell_angle_gamma   104.44154238
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnH4(CO)4
+_chemical_formula_sum   'Zn1 H4 C4 O4'
+_cell_volume   105.184729663
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C1  1  0.032010  0.326585  0.518231  1
+  C  C2  1  0.866195  0.219327  0.702136  1
+  C  C3  1  0.853081  0.482715  0.841387  1
+  C  C4  1  0.687434  0.375430  0.025308  1
+  H  H5  1  0.570983  0.056373  0.676246  1
+  H  H6  1  0.057512  0.077115  0.757620  1
+  H  H7  1  0.661648  0.624865  0.785935  1
+  H  H8  1  0.148265  0.645719  0.867249  1
+  O  O9  1  0.955014  0.123001  0.380885  1
+  O  O10  1  0.252344  0.604327  0.507667  1
+  O  O11  1  0.764626  0.578959  0.162678  1
+  O  O12  1  0.467072  0.097690  0.035865  1
+  Zn  Zn13  1  0.360033  0.851014  0.271763  1
+ 
+# Source:                            Huan_etal:SciDat(submitted)                                                     
+# Class:                             organometallic_polymer_crystal                                                  
+# Label:                             Zn-based_polymer                                                                
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    13
+# Number of atom types:                4
+# Atom types:                         C  H  O Zn
+# Dielectric constant, electronic:   3.17255E+00
+# Dielectric constant, ionic:        4.33232E+00
+# Dielectric constant, total:        7.50487E+00
+# Band gap at the GGA level (eV):    3.76240E+00
+# Band gap at the HSE06 level (eV):  5.67380E+00
+# Atomization energy (eV/atom):     -5.76020E+00
+# Volume of the unit cell (A^3):     1.05185E+02

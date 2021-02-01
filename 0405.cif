@@ -1,0 +1,70 @@
+# generated using pymatgen
+data_SnH14(C4O3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.74899173
+_cell_length_b   5.96854660
+_cell_length_c   10.02875504
+_cell_angle_alpha   72.21861018
+_cell_angle_beta   84.77589146
+_cell_angle_gamma   57.31118293
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnH14(C4O3)2
+_chemical_formula_sum   'Sn1 H14 C8 O6'
+_cell_volume   226.839684744
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C1  1  0.379025  0.302138  0.120113  1
+  C  C2  1  0.322487  0.296632  0.519464  1
+  C  C3  1  0.842805  0.707361  0.784671  1
+  C  C4  1  0.113099  0.606611  0.683057  1
+  C  C5  1  0.065058  0.430783  0.615493  1
+  C  C6  1  0.637130  0.170022  0.023857  1
+  C  C7  1  0.588709  0.996461  0.954600  1
+  C  C8  1  0.860424  0.895217  0.853603  1
+  H  H9  1  0.835776  0.075868  0.770976  1
+  H  H10  1  0.109599  0.784259  0.910435  1
+  H  H11  1  0.603456  0.819219  0.035723  1
+  H  H12  1  0.339391  0.118961  0.897823  1
+  H  H13  1  0.642728  0.340561  0.944432  1
+  H  H14  1  0.882545  0.040991  0.084771  1
+  H  H15  1  0.061416  0.260478  0.696063  1
+  H  H16  1  0.818333  0.558015  0.555651  1
+  H  H17  1  0.095857  0.784172  0.601211  1
+  H  H18  1  0.363136  0.485586  0.739114  1
+  H  H19  1  0.253930  0.813222  0.327673  1
+  H  H20  1  0.593178  0.817908  0.728349  1
+  H  H21  1  0.800358  0.756948  0.313302  1
+  H  H22  1  0.868512  0.526363  0.867376  1
+  O  O23  1  0.651889  0.705199  0.286061  1
+  O  O24  1  0.013816  0.897644  0.347286  1
+  O  O25  1  0.414153  0.435478  0.190703  1
+  O  O26  1  0.118556  0.287582  0.128031  1
+  O  O27  1  0.581958  0.312619  0.509253  1
+  O  O28  1  0.286457  0.160577  0.451066  1
+  Sn  Sn29  1  0.852647  0.297507  0.319009  1
+ 
+# Source:                            Huan_etal:SciDat(submitted)                                                     
+# Class:                             organometallic_polymer_crystal                                                  
+# Label:                             polyesters_inter                                                                
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    29
+# Number of atom types:                4
+# Atom types:                         C  H  O Sn
+# Dielectric constant, electronic:   2.95981E+00
+# Dielectric constant, ionic:        1.84342E+00
+# Dielectric constant, total:        4.80323E+00
+# Band gap at the GGA level (eV):    3.67640E+00
+# Band gap at the HSE06 level (eV):  5.57680E+00
+# Atomization energy (eV/atom):     -5.48989E+00
+# Volume of the unit cell (A^3):     2.26840E+02

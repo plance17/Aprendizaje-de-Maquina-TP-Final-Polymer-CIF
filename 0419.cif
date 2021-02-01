@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_TiH16C9O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.74283683
+_cell_length_b   6.79548640
+_cell_length_c   7.65765144
+_cell_angle_alpha   90.89754110
+_cell_angle_beta   100.73813777
+_cell_angle_gamma   99.65362573
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiH16C9O4
+_chemical_formula_sum   'Ti1 H16 C9 O4'
+_cell_volume   238.769208416
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C1  1  0.527088  0.986772  0.129191  1
+  C  C2  1  0.882517  0.579542  0.281018  1
+  C  C3  1  0.240645  0.354220  0.987626  1
+  C  C4  1  0.352061  0.165476  0.503236  1
+  C  C5  1  0.440456  0.046411  0.662530  1
+  C  C6  1  0.528538  0.850725  0.600339  1
+  C  C7  1  0.491821  0.680985  0.729272  1
+  C  C8  1  0.183123  0.638934  0.771256  1
+  C  C9  1  0.073558  0.424980  0.819929  1
+  H  H10  1  0.965424  0.654863  0.171073  1
+  H  H11  1  0.426674  0.906429  0.230882  1
+  H  H12  1  0.253186  0.012572  0.727364  1
+  H  H13  1  0.620272  0.133561  0.756750  1
+  H  H14  1  0.358347  0.997078  0.014460  1
+  H  H15  1  0.751882  0.884004  0.577656  1
+  H  H16  1  0.391134  0.798642  0.471707  1
+  H  H17  1  0.688253  0.903704  0.092059  1
+  H  H18  1  0.536262  0.547441  0.665100  1
+  H  H19  1  0.653318  0.713846  0.852648  1
+  H  H20  1  0.701716  0.644196  0.312390  1
+  H  H21  1  0.027743  0.668098  0.654307  1
+  H  H22  1  0.165649  0.741530  0.878555  1
+  H  H23  1  0.058766  0.590463  0.397824  1
+  H  H24  1  0.075392  0.319543  0.710933  1
+  H  H25  1  0.848860  0.413339  0.836319  1
+  O  O26  1  0.543293  0.269789  0.429925  1
+  O  O27  1  0.083685  0.265069  0.097081  1
+  O  O28  1  0.512580  0.371017  0.017917  1
+  O  O29  1  0.076414  0.153442  0.445436  1
+  Ti  Ti30  1  0.803910  0.259390  0.247411  1
+ 
+# Source:                            Huan_etal:SciDat(submitted)                                                     
+# Class:                             organometallic_polymer_crystal                                                  
+# Label:                             Ti-based_polymer                                                                
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    30
+# Number of atom types:                4
+# Atom types:                         C  H  O Ti
+# Dielectric constant, electronic:   3.25402E+00
+# Dielectric constant, ionic:        1.60539E+00
+# Dielectric constant, total:        4.85941E+00
+# Band gap at the GGA level (eV):    1.66660E+00
+# Band gap at the HSE06 level (eV):  3.20140E+00
+# Atomization energy (eV/atom):     -5.51282E+00
+# Volume of the unit cell (A^3):     2.38769E+02

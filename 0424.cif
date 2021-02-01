@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_TiCO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.48389170
+_cell_length_b   4.48389170
+_cell_length_c   3.21668909
+_cell_angle_alpha   88.62247696
+_cell_angle_beta   88.62247696
+_cell_angle_gamma   86.90092702
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiCO4
+_chemical_formula_sum   'Ti1 C1 O4'
+_cell_volume   64.5424533319
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti1  1  0.528234  0.528234  0.653906  1
+  O  O2  1  0.664286  0.664286  0.116612  1
+  O  O3  1  0.250343  0.250343  0.879996  1
+  O  O4  1  0.170338  0.811686  0.584720  1
+  O  O5  1  0.811686  0.170338  0.584720  1
+  C  C6  1  0.075114  0.075114  0.680046  1
+ 
+# Source:                            Huan_etal:SciDat(submitted)                                                     
+# Class:                             organometallic_polymer_crystal                                                  
+# Label:                             Ti-based_polymer                                                                
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                     6
+# Number of atom types:                3
+# Atom types:                        Ti  O  C
+# Dielectric constant, electronic:   4.63499E+00
+# Dielectric constant, ionic:        9.99361E+00
+# Dielectric constant, total:        1.46286E+01
+# Band gap at the GGA level (eV):    2.50100E+00
+# Band gap at the HSE06 level (eV):  4.18370E+00
+# Atomization energy (eV/atom):     -7.54366E+00
+# Volume of the unit cell (A^3):     6.45425E+01

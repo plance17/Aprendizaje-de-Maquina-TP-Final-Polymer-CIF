@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_CaH10C7O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.21693474
+_cell_length_b   7.52289349
+_cell_length_c   11.19320166
+_cell_angle_alpha   101.23888786
+_cell_angle_beta   90.21950025
+_cell_angle_gamma   90.73422821
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaH10C7O4
+_chemical_formula_sum   'Ca2 H20 C14 O8'
+_cell_volume   348.242766258
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca1  1  0.001487  0.515159  0.810048  1
+  Ca  Ca2  1  0.001487  0.015159  0.810048  1
+  O  O3  1  0.116682  0.247989  0.671065  1
+  O  O4  1  0.116678  0.747989  0.671065  1
+  O  O5  1  0.525394  0.456542  0.916354  1
+  O  O6  1  0.525392  0.956542  0.916353  1
+  O  O7  1  0.114486  0.284005  0.948999  1
+  O  O8  1  0.114482  0.784005  0.948998  1
+  O  O9  1  0.524567  0.079828  0.705724  1
+  O  O10  1  0.524564  0.579829  0.705724  1
+  C  C11  1  0.385999  0.176097  0.639416  1
+  C  C12  1  0.385996  0.676096  0.639416  1
+  C  C13  1  0.385327  0.358497  0.981824  1
+  C  C14  1  0.385322  0.858496  0.981825  1
+  C  C15  1  0.539180  0.204098  0.522356  1
+  C  C16  1  0.539172  0.704097  0.522355  1
+  C  C17  1  0.316525  0.235385  0.420275  1
+  C  C18  1  0.316516  0.735385  0.420275  1
+  C  C19  1  0.510787  0.267195  0.310639  1
+  C  C20  1  0.510777  0.767196  0.310639  1
+  C  C21  1  0.316710  0.290727  0.198762  1
+  C  C22  1  0.316701  0.790727  0.198761  1
+  C  C23  1  0.538375  0.332203  0.099391  1
+  C  C24  1  0.538367  0.832202  0.099391  1
+  H  H25  1  0.703499  0.221031  0.073313  1
+  H  H26  1  0.703493  0.721032  0.073314  1
+  H  H27  1  0.686548  0.951516  0.133585  1
+  H  H28  1  0.686555  0.451516  0.133584  1
+  H  H29  1  0.146510  0.399963  0.224564  1
+  H  H30  1  0.146500  0.899962  0.224562  1
+  H  H31  1  0.176476  0.167810  0.163805  1
+  H  H32  1  0.176467  0.667809  0.163804  1
+  H  H33  1  0.663237  0.387106  0.339268  1
+  H  H34  1  0.663225  0.887105  0.339268  1
+  H  H35  1  0.674391  0.154621  0.284037  1
+  H  H36  1  0.674380  0.654621  0.284038  1
+  H  H37  1  0.694836  0.589942  0.490908  1
+  H  H38  1  0.694846  0.089943  0.490909  1
+  H  H39  1  0.696950  0.321636  0.548259  1
+  H  H40  1  0.696944  0.821635  0.548258  1
+  H  H41  1  0.165634  0.351932  0.453261  1
+  H  H42  1  0.165625  0.851933  0.453262  1
+  H  H43  1  0.156366  0.118690  0.392766  1
+  H  H44  1  0.156355  0.618690  0.392767  1
+ 
+# Source:                            Huan_etal:SciDat(submitted)                                                     
+# Class:                             organometallic_polymer_crystal                                                  
+# Label:                             Ca-based_polymer                                                                
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    44
+# Number of atom types:                4
+# Atom types:                        Ca  O  C  H
+# Dielectric constant, electronic:   2.81251E+00
+# Dielectric constant, ionic:        1.69535E+00
+# Dielectric constant, total:        4.50787E+00
+# Band gap at the GGA level (eV):    4.74190E+00
+# Band gap at the HSE06 level (eV):  6.72230E+00
+# Atomization energy (eV/atom):     -5.76829E+00
+# Volume of the unit cell (A^3):     3.48243E+02

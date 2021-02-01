@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_AlH16C10ClO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.75737766
+_cell_length_b   6.97248720
+_cell_length_c   8.68802276
+_cell_angle_alpha   69.01378243
+_cell_angle_beta   86.35255451
+_cell_angle_gamma   82.95295823
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlH16C10ClO4
+_chemical_formula_sum   'Al1 H16 C10 Cl1 O4'
+_cell_volume   266.978908355
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl1  1  0.099744  0.561783  0.161604  1
+  C  C2  1  0.663606  0.996554  0.919437  1
+  C  C3  1  0.080824  0.556845  0.722473  1
+  C  C4  1  0.460187  0.192643  0.519770  1
+  C  C5  1  0.439428  0.399584  0.548028  1
+  C  C6  1  0.132681  0.444732  0.604287  1
+  C  C7  1  0.563038  0.954628  0.279553  1
+  C  C8  1  0.746077  0.918753  0.429045  1
+  C  C9  1  0.754759  0.112403  0.473654  1
+  C  C10  1  0.626011  0.149457  0.133938  1
+  C  C11  1  0.497490  0.159034  0.971364  1
+  H  H12  1  0.854907  0.156785  0.114957  1
+  H  H13  1  0.538915  0.288790  0.157613  1
+  H  H14  1  0.523749  0.310152  0.879268  1
+  H  H15  1  0.274911  0.132002  0.987702  1
+  H  H16  1  0.897653  0.074230  0.576486  1
+  H  H17  1  0.845311  0.233473  0.370611  1
+  H  H18  1  0.664801  0.796658  0.535616  1
+  H  H19  1  0.962550  0.863855  0.401680  1
+  H  H20  1  0.337238  0.968359  0.312789  1
+  H  H21  1  0.600240  0.818194  0.243222  1
+  H  H22  1  0.002909  0.531120  0.496569  1
+  H  H23  1  0.041373  0.299763  0.665394  1
+  H  H24  1  0.587347  0.392249  0.640940  1
+  H  H25  1  0.494422  0.522963  0.434312  1
+  H  H26  1  0.383058  0.074483  0.630762  1
+  H  H27  1  0.312545  0.210722  0.422951  1
+  O  O28  1  0.932981  0.004494  0.878487  1
+  O  O29  1  0.572220  0.825142  0.930407  1
+  O  O30  1  0.220524  0.702036  0.729983  1
+  O  O31  1  0.875989  0.511755  0.831691  1
+  Al  Al32  1  0.967510  0.717070  0.911805  1
+ 
+# Source:                            Huan_etal:SciDat(submitted)                                                     
+# Class:                             organometallic_polymer_crystal                                                  
+# Label:                             Al-based_polymer                                                                
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    32
+# Number of atom types:                5
+# Atom types:                        Cl  C  H  O Al
+# Dielectric constant, electronic:   2.67026E+00
+# Dielectric constant, ionic:        5.83891E-01
+# Dielectric constant, total:        3.25415E+00
+# Band gap at the GGA level (eV):    4.67030E+00
+# Band gap at the HSE06 level (eV):  6.36550E+00
+# Atomization energy (eV/atom):     -5.47788E+00
+# Volume of the unit cell (A^3):     2.66979E+02

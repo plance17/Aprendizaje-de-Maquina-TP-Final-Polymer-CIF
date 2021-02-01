@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_TiH8C5O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.87808208
+_cell_length_b   5.46411604
+_cell_length_c   6.09933269
+_cell_angle_alpha   102.45892637
+_cell_angle_beta   92.74812399
+_cell_angle_gamma   98.66501961
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiH8C5O4
+_chemical_formula_sum   'Ti1 H8 C5 O4'
+_cell_volume   156.387767516
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C1  1  0.339977  0.377519  0.766010  1
+  C  C2  1  0.242782  0.950739  0.098128  1
+  C  C3  1  0.794958  0.374993  0.288541  1
+  C  C4  1  0.793247  0.782849  0.559663  1
+  C  C5  1  0.647793  0.604856  0.350614  1
+  H  H6  1  0.654747  0.712341  0.218882  1
+  H  H7  1  0.430036  0.545952  0.376386  1
+  H  H8  1  0.235784  0.518650  0.710592  1
+  H  H9  1  0.434513  0.265925  0.628057  1
+  H  H10  1  0.500455  0.467777  0.902110  1
+  H  H11  1  0.115760  0.763885  0.084227  1
+  H  H12  1  0.257913  0.059127  0.271878  1
+  H  H13  1  0.446600  0.925428  0.039046  1
+  O  O14  1  0.881924  0.334148  0.081872  1
+  O  O15  1  0.830301  0.240242  0.421594  1
+  O  O16  1  0.666289  0.915958  0.708700  1
+  O  O17  1  0.062169  0.815184  0.589718  1
+  Ti  Ti18  1  0.057293  0.114374  0.866600  1
+ 
+# Source:                            Huan_etal:SciDat(submitted)                                                     
+# Class:                             organometallic_polymer_crystal                                                  
+# Label:                             Ti-based_polymer                                                                
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    18
+# Number of atom types:                4
+# Atom types:                         C  H  O Ti
+# Dielectric constant, electronic:   3.22884E+00
+# Dielectric constant, ionic:        1.43541E+00
+# Dielectric constant, total:        4.66425E+00
+# Band gap at the GGA level (eV):    2.67150E+00
+# Band gap at the HSE06 level (eV):  4.47880E+00
+# Atomization energy (eV/atom):     -5.73902E+00
+# Volume of the unit cell (A^3):     1.56388E+02
