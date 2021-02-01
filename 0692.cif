@@ -1,0 +1,66 @@
+# generated using pymatgen
+data_CdH12(C2O)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.77476665
+_cell_length_b   4.20959327
+_cell_length_c   12.66642000
+_cell_angle_alpha   97.40567143
+_cell_angle_beta   97.95587394
+_cell_angle_gamma   97.01685331
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdH12(C2O)4
+_chemical_formula_sum   'Cd1 H12 C8 O4'
+_cell_volume   195.653585121
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C1  1  0.757314  0.384474  0.345216  1
+  C  C2  1  0.698077  0.584076  0.447797  1
+  C  C3  1  0.637691  0.391718  0.540183  1
+  C  C4  1  0.585785  0.612131  0.641358  1
+  C  C5  1  0.494502  0.423884  0.732228  1
+  C  C6  1  0.448080  0.640981  0.834758  1
+  C  C7  1  0.332403  0.441928  0.920542  1
+  C  C8  1  0.276536  0.641694  0.023245  1
+  H  H9  1  0.939166  0.765679  0.472321  1
+  H  H10  1  0.474192  0.717663  0.427816  1
+  H  H11  1  0.701507  0.800342  0.868103  1
+  H  H12  1  0.248060  0.799696  0.814539  1
+  H  H13  1  0.866567  0.261806  0.558754  1
+  H  H14  1  0.830792  0.787675  0.670167  1
+  H  H15  1  0.704769  0.273881  0.751567  1
+  H  H16  1  0.245412  0.254078  0.703109  1
+  H  H17  1  0.536238  0.291472  0.943796  1
+  H  H18  1  0.083227  0.275886  0.889255  1
+  H  H19  1  0.399056  0.209693  0.513697  1
+  H  H20  1  0.369720  0.755333  0.620413  1
+  O  O21  1  0.607747  0.441740  0.253232  1
+  O  O22  1  0.970539  0.169568  0.351371  1
+  O  O23  1  0.040158  0.534179  0.078518  1
+  O  O24  1  0.451141  0.928157  0.052626  1
+  Cd  Cd25  1  0.029981  0.078220  0.173043  1
+ 
+# Source:                            Huan_etal:SciDat(submitted)                                                     
+# Class:                             organometallic_polymer_crystal                                                  
+# Label:                             Cd-based_polymer                                                                
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    25
+# Number of atom types:                4
+# Atom types:                         C  H  O Cd
+# Dielectric constant, electronic:   2.98069E+00
+# Dielectric constant, ionic:        3.01911E+00
+# Dielectric constant, total:        5.99981E+00
+# Band gap at the GGA level (eV):    3.58280E+00
+# Band gap at the HSE06 level (eV):  5.36940E+00
+# Atomization energy (eV/atom):     -5.44195E+00
+# Volume of the unit cell (A^3):     1.95654E+02

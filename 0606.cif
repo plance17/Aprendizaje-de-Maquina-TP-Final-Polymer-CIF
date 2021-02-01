@@ -1,0 +1,60 @@
+# generated using pymatgen
+data_ZrH8(C3O2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.73080776
+_cell_length_b   4.78313074
+_cell_length_c   9.33774692
+_cell_angle_alpha   79.13478003
+_cell_angle_beta   86.88625496
+_cell_angle_gamma   71.38873889
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrH8(C3O2)2
+_chemical_formula_sum   'Zr1 H8 C6 O4'
+_cell_volume   155.083672731
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr1  1  0.366197  0.873239  0.298066  1
+  O  O2  1  0.267188  0.217450  0.397828  1
+  O  O3  1  0.918286  0.718187  0.385392  1
+  O  O4  1  0.540285  0.624545  0.118240  1
+  O  O5  1  0.826025  0.125150  0.143697  1
+  C  C6  1  0.243902  0.477808  0.449289  1
+  C  C7  1  0.234765  0.427410  0.615165  1
+  C  C8  1  0.627827  0.379631  0.070403  1
+  C  C9  1  0.229022  0.706998  0.673996  1
+  C  C10  1  0.230697  0.678166  0.841023  1
+  C  C11  1  0.498298  0.379134  0.919672  1
+  H  H12  1  0.756780  0.303738  0.856887  1
+  H  H13  1  0.374115  0.197665  0.930824  1
+  H  H14  1  0.317632  0.860592  0.866622  1
+  H  H15  1  0.946560  0.712303  0.885513  1
+  H  H16  1  0.486033  0.239293  0.654278  1
+  H  H17  1  0.989764  0.354953  0.653325  1
+  H  H18  1  0.983553  0.893902  0.628758  1
+  H  H19  1  0.475092  0.770848  0.630740  1
+ 
+# Source:                            Huan_etal:SciDat(submitted)                                                     
+# Class:                             organometallic_polymer_crystal                                                  
+# Label:                             Zr-based_polymer                                                                
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    19
+# Number of atom types:                4
+# Atom types:                        Zr  O  C  H
+# Dielectric constant, electronic:   3.84321E+00
+# Dielectric constant, ionic:        2.71252E+00
+# Dielectric constant, total:        6.55573E+00
+# Band gap at the GGA level (eV):    1.81460E+00
+# Band gap at the HSE06 level (eV):  3.05480E+00
+# Atomization energy (eV/atom):     -6.02314E+00
+# Volume of the unit cell (A^3):     1.55084E+02

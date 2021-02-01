@@ -1,0 +1,60 @@
+# generated using pymatgen
+data_HfH8(C3O2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.75097211
+_cell_length_b   4.73450434
+_cell_length_c   9.37748746
+_cell_angle_alpha   79.25027880
+_cell_angle_beta   89.54698699
+_cell_angle_gamma   71.61340843
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfH8(C3O2)2
+_chemical_formula_sum   'Hf1 H8 C6 O4'
+_cell_volume   155.028031072
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf1  1  0.368769  0.860479  0.302922  1
+  O  O2  1  0.295951  0.199221  0.403525  1
+  O  O3  1  0.926811  0.705219  0.376778  1
+  O  O4  1  0.514899  0.636145  0.120928  1
+  O  O5  1  0.853173  0.139978  0.146655  1
+  C  C6  1  0.258941  0.466882  0.452513  1
+  C  C7  1  0.224846  0.423438  0.616506  1
+  C  C8  1  0.631169  0.389075  0.073200  1
+  C  C9  1  0.215699  0.707261  0.674329  1
+  C  C10  1  0.217516  0.679911  0.840364  1
+  C  C11  1  0.496216  0.381892  0.922671  1
+  H  H12  1  0.748501  0.306842  0.862099  1
+  H  H13  1  0.378441  0.195059  0.935882  1
+  H  H14  1  0.293546  0.869284  0.866691  1
+  H  H15  1  0.936792  0.707507  0.880339  1
+  H  H16  1  0.468045  0.231080  0.665160  1
+  H  H17  1  0.974312  0.357031  0.644730  1
+  H  H18  1  0.971834  0.896266  0.623948  1
+  H  H19  1  0.460919  0.770542  0.636358  1
+ 
+# Source:                            Huan_etal:SciDat(submitted)                                                     
+# Class:                             organometallic_polymer_crystal                                                  
+# Label:                             Hf-based_polymer                                                                
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    19
+# Number of atom types:                4
+# Atom types:                        Hf  O  C  H
+# Dielectric constant, electronic:   3.62253E+00
+# Dielectric constant, ionic:        2.87513E+00
+# Dielectric constant, total:        6.49765E+00
+# Band gap at the GGA level (eV):    2.01690E+00
+# Band gap at the HSE06 level (eV):  3.32920E+00
+# Atomization energy (eV/atom):     -6.02385E+00
+# Volume of the unit cell (A^3):     1.55028E+02

@@ -1,0 +1,66 @@
+# generated using pymatgen
+data_HfH12(C2O)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.08798966
+_cell_length_b   4.10052148
+_cell_length_c   11.92308504
+_cell_angle_alpha   86.46799575
+_cell_angle_beta   82.20111463
+_cell_angle_gamma   71.60559566
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfH12(C2O)4
+_chemical_formula_sum   'Hf1 H12 C8 O4'
+_cell_volume   187.861879349
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf1  1  0.995461  0.584792  0.873448  1
+  O  O2  1  0.702851  0.952912  0.743348  1
+  O  O3  1  0.206831  0.572316  0.690174  1
+  O  O4  1  0.491332  0.492555  0.932784  1
+  O  O5  1  0.137741  0.041881  0.923716  1
+  C  C6  1  0.964889  0.854313  0.667685  1
+  C  C7  1  0.989795  0.064321  0.561450  1
+  C  C8  1  0.467649  0.838519  0.962267  1
+  C  C9  1  0.919120  0.903861  0.456696  1
+  C  C10  1  0.226920  0.618401  0.398821  1
+  C  C11  1  0.429632  0.729035  0.293339  1
+  C  C12  1  0.254025  0.788242  0.184660  1
+  C  C13  1  0.507006  0.861258  0.085633  1
+  H  H14  1  0.188646  0.557809  0.168517  1
+  H  H15  1  0.011009  0.001971  0.193671  1
+  H  H16  1  0.544210  0.109025  0.096802  1
+  H  H17  1  0.760559  0.668285  0.095474  1
+  H  H18  1  0.679349  0.526589  0.276020  1
+  H  H19  1  0.492724  0.960055  0.309426  1
+  H  H20  1  0.402521  0.500029  0.461328  1
+  H  H21  1  0.133096  0.416976  0.373141  1
+  H  H22  1  0.244338  0.100610  0.549276  1
+  H  H23  1  0.793755  0.313496  0.577553  1
+  H  H24  1  0.829274  0.109772  0.395303  1
+  H  H25  1  0.702067  0.805515  0.482967  1
+ 
+# Source:                            Huan_etal:SciDat(submitted)                                                     
+# Class:                             organometallic_polymer_crystal                                                  
+# Label:                             Hf-based_polymer                                                                
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    25
+# Number of atom types:                4
+# Atom types:                        Hf  O  C  H
+# Dielectric constant, electronic:   3.38730E+00
+# Dielectric constant, ionic:        1.73539E+00
+# Dielectric constant, total:        5.12269E+00
+# Band gap at the GGA level (eV):    1.94210E+00
+# Band gap at the HSE06 level (eV):  3.30760E+00
+# Atomization energy (eV/atom):     -5.76792E+00
+# Volume of the unit cell (A^3):     1.87862E+02

@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_CdH10C7O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.74915888
+_cell_length_b   4.30506769
+_cell_length_c   11.38539915
+_cell_angle_alpha   83.21213328
+_cell_angle_beta   81.13186060
+_cell_angle_gamma   76.53603135
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdH10C7O4
+_chemical_formula_sum   'Cd1 H10 C7 O4'
+_cell_volume   175.928948486
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C1  1  0.441580  0.394137  0.373427  1
+  C  C2  1  0.146315  0.461963  0.479321  1
+  C  C3  1  0.252732  0.599920  0.585507  1
+  C  C4  1  0.389241  0.347051  0.684799  1
+  C  C5  1  0.423317  0.502032  0.795984  1
+  C  C6  1  0.503192  0.260699  0.904507  1
+  C  C7  1  0.305870  0.377064  0.023589  1
+  H  H8  1  0.916582  0.636591  0.446894  1
+  H  H9  1  0.056425  0.240389  0.510302  1
+  H  H10  1  0.412718  0.040031  0.897751  1
+  H  H11  1  0.798306  0.181512  0.911726  1
+  H  H12  1  0.000898  0.758925  0.624457  1
+  H  H13  1  0.190414  0.192311  0.709744  1
+  H  H14  1  0.162682  0.672006  0.819790  1
+  H  H15  1  0.635238  0.643970  0.775658  1
+  H  H16  1  0.448908  0.752967  0.554578  1
+  H  H17  1  0.651243  0.189525  0.652696  1
+  O  O18  1  0.439578  0.609989  0.283818  1
+  O  O19  1  0.678572  0.129743  0.374729  1
+  O  O20  1  0.078158  0.646743  0.025667  1
+  O  O21  1  0.361991  0.185238  0.118692  1
+  Cd  Cd22  1  0.903791  0.889942  0.200209  1
+ 
+# Source:                            Huan_etal:SciDat(submitted)                                                     
+# Class:                             organometallic_polymer_crystal                                                  
+# Label:                             Cd-based_polymer                                                                
+# Structure prediction method used:  minima-hopping                                                                  
+# Number of atoms:                    22
+# Number of atom types:                4
+# Atom types:                         C  H  O Cd
+# Dielectric constant, electronic:   3.00196E+00
+# Dielectric constant, ionic:        2.60269E+00
+# Dielectric constant, total:        5.60466E+00
+# Band gap at the GGA level (eV):    3.96070E+00
+# Band gap at the HSE06 level (eV):  5.88370E+00
+# Atomization energy (eV/atom):     -5.48436E+00
+# Volume of the unit cell (A^3):     1.75929E+02
